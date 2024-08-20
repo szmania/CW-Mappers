@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Titles>
+	<!--This is to assign MEN-AT-ARMS units based on title key and not owner culture-->
+	<!--Levies do not take part in this!!-->
+	
+	
+	<!--DEFAULT value does not work here, every unit must have a unit key-->
+	<!--title_key = key of the landed title-->
+	<Faction title_key="k_france" name= "France">
+		<General key="mk_fre_t1_kings_bodyguard"></General>
+		<Knights key="mk_lat_t1_general_bodyguard"></Knights>
+		
+		<MenAtArm type="light_footmen" key="mk_fre_t1_sergeant_axemen"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_fre_t1_sergeant_at_arms"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_fre_t1_guisarmiers"></MenAtArm>
+		<MenAtArm type="bowmen" key="mk_fre_t1_archers"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="mk_fre_t1_arbaletriers"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mk_fre_t1_cliens"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_fre_t1_banneret_chevaliers_mounted"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_fre_t1_sergeant_at_arms"></MenAtArm>
+		<MenAtArm type="teutonic_knights" key="mk_mio_t1_templar_knights_dismounted"></MenAtArm>
+
+		<MenAtArm type="accolade_maa_archers" key="mk_merc_eng_t1_longbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_fre_t1_banneret_chevaliers_mounted"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_fre_t1_arbaletriers_mounted"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_merc_fre_t1_routiers_spearmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_bra_t1_brabanzonen_goedendag"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="mk_fre_t1_chevaliers_dismounted"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowmen" key="mk_fre_t1_arbaletriers_mounted"></MenAtArm>
+	</Faction>
+
+	<Faction title_key="k_castille" name= "Castile">
+		<General key="mk_cas_t3_king_bodyguard"></General>
+		<Knights key="mk_cas_t3_general_bodyguard"></Knights>
+		
+		<MenAtArm type="light_footmen" key="mk_cas_t3_rodeleros"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_cas_t3_halberdiers_maa"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_cas_t3_pikemen"></MenAtArm>
+		<MenAtArm type="bowmen" key="mk_cas_t3_peones_crossbowmen"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="mk_cas_t3_pavise_crossbowmen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mk_cas_t3_hidalgos"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_cas_t3_caballeros"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_cas_t3_monteros_de_espinosa"></MenAtArm>
+		<MenAtArm type="teutonic_knights" key="mk_mio_t3_spanish_order_knights_dismounted"></MenAtArm>
+
+		<MenAtArm type="horse_archers" key="mk_cas_t3_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="earl_gran_t3_andalusian_heavy_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="caballero" key="mk_cas_t3_jinetes"></MenAtArm>
+	    <MenAtArm type="iberian_coseletes" key="earl_cas_t4_tercios_pikeman"></MenAtArm>
+		<MenAtArm type="iberian_picas_secas" key="mk_cas_t3_voulgiers"></MenAtArm>
+		
+		<MenAtArm type="accolade_maa_archers" key="mk_cas_t3_pavise_crossbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_cas_t3_banneret_caballeros"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_cas_t3_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_cas_t3_peones_de_elite"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_cas_t3_handgunners"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="mk_cas_t3_monteros_de_espinosa"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowmen" key="mk_cas_t3_mounted_crossbowmen"></MenAtArm>
+	</Faction>
+	
+	<Faction title_key="k_leon" name= "Leon">
+		<General key="mk_cas_t3_king_bodyguard"></General>
+		<Knights key="mk_cas_t3_general_bodyguard"></Knights>
+		
+		<MenAtArm type="light_footmen" key="mk_cas_t3_rodeleros"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_cas_t3_halberdiers_maa"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_cas_t3_pikemen"></MenAtArm>
+		<MenAtArm type="bowmen" key="mk_cas_t3_peones_crossbowmen"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="mk_cas_t3_pavise_crossbowmen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mk_cas_t3_hidalgos"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_cas_t3_caballeros"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_cas_t3_monteros_de_espinosa"></MenAtArm>
+		<MenAtArm type="teutonic_knights" key="mk_mio_t3_spanish_order_knights_dismounted"></MenAtArm>
+
+		<MenAtArm type="horse_archers" key="mk_cas_t3_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="earl_gran_t3_andalusian_heavy_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="caballero" key="mk_cas_t3_jinetes"></MenAtArm>
+	    <MenAtArm type="iberian_coseletes" key="earl_cas_t4_tercios_pikeman"></MenAtArm>
+		<MenAtArm type="iberian_picas_secas" key="mk_cas_t3_voulgiers"></MenAtArm>
+		
+		<MenAtArm type="accolade_maa_archers" key="mk_cas_t3_pavise_crossbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_cas_t3_banneret_caballeros"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_cas_t3_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_cas_t3_peones_de_elite"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_cas_t3_handgunners"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="mk_cas_t3_monteros_de_espinosa"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowmen" key="mk_cas_t3_mounted_crossbowmen"></MenAtArm>
+	</Faction>
+
+	<Faction title_key="k_aragon" name= "Aragon">
+		<General key="mk_ara_t3_king_bodyguard"></General>
+		<Knights key="mk_ara_t3_royal_guard"></Knights>
+		
+		<MenAtArm type="light_footmen" key="mk_ara_t3_almogavars"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_ara_t3_halberdier_maa"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_ara_t3_voulgier_sergeants"></MenAtArm>
+		<MenAtArm type="bowmen" key="mk_ara_t3_peones_crossbowmen"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="mk_ara_t3_pavise_crossbowmen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mk_ara_t3_mounted_sergeants"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_ara_t3_armats"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_ara_t3_halberdier_maa"></MenAtArm>
+		<MenAtArm type="teutonic_knights" key="mk_mio_t3_spanish_order_knights_dismounted"></MenAtArm>
+
+		<MenAtArm type="horse_archers" key="mk_ara_t3_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="earl_gran_t3_andalusian_heavy_mounted_crossbowmen"></MenAtArm>
+		<MenAtArm type="caballero" key="mk_ara_t3_jinetes"></MenAtArm>
+	    <MenAtArm type="iberian_coseletes" key="mk_ara_t3_halberdier_maa"></MenAtArm>
+		<MenAtArm type="iberian_picas_secas" key="mk_ara_t3_pikemen"></MenAtArm>
+		
+		<MenAtArm type="accolade_maa_archers" key="mk_ara_t3_pavise_crossbowmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_ara_t3_banneret_caballeros"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_ara_t3_alforrats"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_ara_t3_pavise_spearmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_ara_t3_peones"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="earl_gran_t3_dismounted_malughun"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowmen" key="mk_ara_t3_mounted_crossbowmen"></MenAtArm>
+	</Faction>		
+	
+</Titles>
