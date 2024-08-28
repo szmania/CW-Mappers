@@ -19,8 +19,8 @@
 		<MenAtArm type="byzantine_latinkon" key="mk_merc_eur_t1_knights" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="bulgarian_voynik" key="mk_bulg_t1_militia_spearmen" max="RANGED"></MenAtArm>		
-		<MenAtArm type="bulgarian_ciobani" key="mk_bulg_t1_hooked_pikemen" max="RANGED"></MenAtArm>			
-		<MenAtArm type="bulgarian_oklopnitsi" key="mk_bulg_t1_heavy_spearmen" max="INFANTRY"></MenAtArm>			
+		<MenAtArm type="bulgarian_ciobani" key="mk_bulg_t1_axemen_dogs" max="RANGED"></MenAtArm>			
+		<MenAtArm type="bulgarian_oklopnitsi" key="mk_bulg_t1_voivods" max="INFANTRY"></MenAtArm>			
 		<MenAtArm type="bulgarian_konnik" key="mk_bulg_t1_heavy_cavalry" max="CAVALRY"></MenAtArm>			
 
 		<MenAtArm type="turkish_azabs" key="mk_rum_t3_azab_archers" max="RANGED"></MenAtArm>		
@@ -37,9 +37,9 @@
 		<MenAtArm type="islamic_fursan" key="mk_abb_t1_fursan_ajnad" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="barbary_corsairs" key="mk_sal_t3_hormuz_pirates" max="RANGED"></MenAtArm>
 		<MenAtArm type="islamic_naffatun" key="mk_abb_t1_naffatun" max="RANGED"></MenAtArm>
-		<MenAtArm type="islamic_khasseki_infantry" key="mk_merc_kurd_t1_kurdish_hillmen" max="RANGED"></MenAtArm>
+		<MenAtArm type="islamic_khasseki_infantry" key="mk_abb_t1_ghazi_tabardariyya" max="RANGED"></MenAtArm>
 		<MenAtArm type="abid_alshira" key="mk_mak_t1_nubian_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="islamic_alashair_infantry" key="mk_ayy_t1_mutattawwia" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="islamic_alashair_infantry" key="mk_zen_t1_jazira_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="sibyan_alkhass" key="mk_ayy_t1_mamluk_jamdariyya" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="ghilman_nubians" key="mk_mak_t1_nubian_quilted_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="egyptian_tabardariyya" key="mk_ayy_t1_tabardariyya" max="INFANTRY"></MenAtArm>
@@ -69,7 +69,7 @@
 		
 		<MenAtArm type="irish_ceithern" key="mk_merc_ire_t1_kern" max="RANGED"></MenAtArm>
 		<MenAtArm type="irish_ostmen" key="mk_nor_t1_orkney" max="RANGED"></MenAtArm>
-		<MenAtArm type="irish_ridire" key="mk_wel_t1_hobilar" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="irish_ridire" key="mk_lor_t1_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="irish_cliathairi" key="mk_merc_wel_t1_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="irish_horseboys" key="mk_wel_t1_hobilar" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="irish_muire" key="mk_sco_t1_foot_knights" max="INFANTRY"></MenAtArm>
@@ -80,13 +80,13 @@
 		<MenAtArm type="welsh_rhyfelwyr" key="mk_wel_t1_rhyfelwyr" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="welsh_teulu" key="mk_wel_t1_prince_bodyguard" max="CAVALRY"></MenAtArm>
 		
-		<MenAtArm type="woodsmen" key="mk_lit_t1_axemen" max="RANGED"></MenAtArm>
+		<MenAtArm type="woodsmen" key="mk_boh_t1_chod_frontiersmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="polish_strzelcy" key="mk_pol_t1_mounted_crossbowmen" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="giltines_chosen" key="mk_lit_t1_ducal_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="dzukijan_horsemen" key="mk_merc_steppe_t1_horse_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="dievas_guard" key="mk_merc_steppe_t1_berendei_lancers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="lithuanian_bajorija" key="mk_lit_t1_noble_cavalry" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="lithuanian_bajorija" key="mk_lit_t1_boyars" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="pavise_spearmen" key="mk_pis_t1_ghibelline_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="hungarian_hussar" key="mk_hun_t3_szekely_lofo" max="CAVALRY"></MenAtArm>
@@ -95,7 +95,7 @@
 		
 		<MenAtArm type="berdiche_axemen" key="mk_rus_t1_guard_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="druzhina_cavalry" key="mk_rus_t1_senior_druzina" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="dvor_cavalry" key="mk_merc_rus_t1_bogatyri" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="dvor_cavalry" key="mk_cuman_t1_heavy_HA" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="cossack_cavalry" key="mk_merc_steppe_t1_bulgar_horse_archers" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="genoese_crossbowmen" key="mk_merc_gen_t1_genoese_crossbowmen" max="RANGED"></MenAtArm>
@@ -103,8 +103,8 @@
 		<MenAtArm type="lanze_spezzate" key="mk_merc_ita_t1_condottieri" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="sicilian_archers" key="mk_sic_t1_muslim_archers" max="RANGED"></MenAtArm>
 		
-		<MenAtArm type="yeoman_archers" key="mk_eng_t1_longbowmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="sherwood_archers" key="mk_eng_t1_welsh_longbowmen" max="RANGED"></MenAtArm>
+		<MenAtArm type="yeoman_archers" key="earl_eng_t2_longbowmen_mounted" max="RANGED"></MenAtArm>
+		<MenAtArm type="sherwood_archers" key="mk_wel_t1_sherwood" max="RANGED"></MenAtArm>
 		<MenAtArm type="english_billmen" key="mk_eng_t1_billmen" max="INFANTRY"></MenAtArm>
 		
 		<MenAtArm type="french_aventurier" key="mk_fre_t1_arbaletriers" max="RANGED"></MenAtArm>
@@ -119,7 +119,7 @@
 		
 		<MenAtArm type="outremer_turcopoles " key="mk_jer_t1_turcopoles" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="outremer_bowmen " key="mk_merc_arm_t1_armenian_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="outremer_heavy_cavalry " key="mk_ant_t1_canon_knights" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="outremer_heavy_cavalry " key="mk_mio_t1_templar_knights" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="sofa " key="mk_mak_t3_nubian_archers" max="RANGED"></MenAtArm>		
 	</Faction>

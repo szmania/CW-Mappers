@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<FactionsGroups>
-
-	<Faction name="Default">
-		<MenAtArm type="mongolian_horse_archers" key="att_nom_hunnic_devil_archers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="turkish_horse_archers" key="att_wh_spet_xyon_archers" max="CAVALRY"></MenAtArm>
-	</Faction>
-	
-</FactionsGroups>
