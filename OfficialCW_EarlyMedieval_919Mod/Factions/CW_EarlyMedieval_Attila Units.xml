@@ -58,7 +58,7 @@
 		<MenAtArm type="sarawit" key="att_des_es_masqal_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="schiltron" key="att_ger_gothic_levy_pict" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="shomer" key="att_des_es_zealot_sicarius" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="cha_vik_warlords_companions" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="cha_vik_warlords_companions" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="vigmen" key="cha_vik_armoured_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="zbrojnosh" key="cha_slav_prvaci" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="cu_ko_nu" key="KOK_cha_gen_archers" max="RANGED"></MenAtArm>

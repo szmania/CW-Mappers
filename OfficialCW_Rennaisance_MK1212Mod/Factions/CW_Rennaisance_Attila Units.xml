@@ -58,7 +58,7 @@
 		<MenAtArm type="sarawit" key="earl_zag_t3_chief_warrior" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="schiltron" key="mk_merc_swi_t3_swiss_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="shomer" key="mk_rum_t2_azab_swordsmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_dan_t3_noble_longswords" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_dan_t3_noble_longswords" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="vigmen" key="mk_nor_t2_orkney" max="RANGED"></MenAtArm>
 		<MenAtArm type="zbrojnosh" key="mk_boh_t3_2h_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="cu_ko_nu" key="mk_mon_t1_fire_lance_infantry" max="RANGED"></MenAtArm>
@@ -1940,7 +1940,7 @@
 	
 		<MenAtArm type="bondi" key="mk_nor_t2_atgeir_bondir"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_nor_t2_vaepnere"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_nor_t2_foot_riddere"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_nor_t2_foot_riddere"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_nor_t2_orkney"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_fla_t3_jousters_of_the_white_bear"></MenAtArm>
@@ -1971,7 +1971,7 @@
 
 		<MenAtArm type="bondi" key="mk_nor_t2_atgeir_bondir"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_brab_t3_sergeants"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_brab_t3_dismounted_knights"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_brab_t3_dismounted_knights"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_fla_t3_guild_bowmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_brab_t3_knights"></MenAtArm>
@@ -2000,7 +2000,7 @@
 		<MenAtArm type="house_guard" key="mk_dan_t3_noble_longswords"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_teu_t3_halbbruder_halberdiers"></MenAtArm>
 	
-		<MenAtArm type="varangian_veteran" key="mk_fla_t3_guild_swordsmen"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_fla_t3_guild_swordsmen"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_fla_t3_guild_bowmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_fla_t3_jousters_of_the_white_bear"></MenAtArm>
@@ -2691,7 +2691,7 @@
 
 		<MenAtArm type="bondi" key="mk_nor_t2_atgeir_bondir"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_nor_t2_vaepnere"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_nor_t2_foot_riddere"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_nor_t2_foot_riddere"></MenAtArm>
 		<MenAtArm type="hobelar" key="mk_wel_t3_hobilar"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_wel_t3_teulu_saethwyr"></MenAtArm>
@@ -2725,7 +2725,7 @@
 		<MenAtArm type="hobelar" key="mk_eng_t3_hobilars"></MenAtArm>
 		<MenAtArm type="bondi" key="mk_nor_t2_atgeir_bondir"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_nor_t2_vaepnere"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_dan_t3_noble_longswords"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_dan_t3_noble_longswords"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="earl_eng_t3_longbowmen_mounted"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_eng_t3_banneret_knights"></MenAtArm>

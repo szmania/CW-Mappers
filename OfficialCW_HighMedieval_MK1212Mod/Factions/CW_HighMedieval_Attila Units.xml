@@ -58,7 +58,7 @@
 		<MenAtArm type="sarawit" key="mk_zag_t2_highland_angada" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="schiltron" key="mk_sco_t1_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="shomer" key="mk_merc_afg_t1_afghan_hillmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="earl_dan_t1_noble" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="earl_dan_t1_noble" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="vigmen" key="mk_nor_t1_orkney" max="RANGED"></MenAtArm>
 		<MenAtArm type="zbrojnosh" key="mk_pol_t2_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="cu_ko_nu" key="mk_mon_t1_fire_lance_infantry" max="RANGED"></MenAtArm>
@@ -1937,7 +1937,7 @@
 
 		<MenAtArm type="bondi" key="mk_nor_t1_spear_bondir"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_nor_t1_candle_men"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_nor_t1_tablemen"></MenAtArm>	
+		<MenAtArm type="varangian_veterans" key="mk_nor_t1_tablemen"></MenAtArm>	
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_nor_t1_orkney"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_merc_ger_t1_knights"></MenAtArm>
@@ -1968,7 +1968,7 @@
 
 		<MenAtArm type="bondi" key="mk_swd_t1_spear_bondir"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_swd_t1_sergeants"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_swd_t1_foot_fralse"></MenAtArm>	
+		<MenAtArm type="varangian_veterans" key="mk_swd_t1_foot_fralse"></MenAtArm>	
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_dan_t1_longbowmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_swd_t1_svenns"></MenAtArm>
@@ -2678,7 +2678,7 @@
 
 		<MenAtArm type="bondi" key="mk_dan_t1_gotland_peasant_militia"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_swd_t1_hirdmen"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_swd_t1_foot_fralse"></MenAtArm>	
+		<MenAtArm type="varangian_veterans" key="mk_swd_t1_foot_fralse"></MenAtArm>	
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_dan_t1_longbowmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_swd_t1_mounted_fralse"></MenAtArm>
@@ -2709,7 +2709,7 @@
 
 		<MenAtArm type="bondi" key="mk_nor_t1_atgeir_bondir"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_nor_t1_hirdmen"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_nor_t1_tablemen"></MenAtArm>	
+		<MenAtArm type="varangian_veterans" key="mk_nor_t1_tablemen"></MenAtArm>	
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_dan_t1_longbowmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_nor_t1_riddere"></MenAtArm>
@@ -2741,7 +2741,7 @@
 		<MenAtArm type="longbowmen" key="mk_eng_t1_longbowmen"></MenAtArm>
 		<MenAtArm type="bondi" key="mk_nor_t1_atgeir_bondir"></MenAtArm>
 		<MenAtArm type="huscarl" key="mk_nor_t1_hirdmen"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_nor_t1_tablemen"></MenAtArm>	
+		<MenAtArm type="varangian_veterans" key="mk_nor_t1_tablemen"></MenAtArm>	
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_merc_eng_t1_longbowmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_nor_t1_knekts"></MenAtArm>

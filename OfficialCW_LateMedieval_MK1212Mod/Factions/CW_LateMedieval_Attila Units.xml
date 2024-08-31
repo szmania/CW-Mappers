@@ -58,7 +58,7 @@
 		<MenAtArm type="sarawit" key="earl_zag_t2_chief_warrior" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="schiltron" key="mk_fla_t2_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="shomer" key="mk_rum_t2_azab_swordsmen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="earl_dan_t2_noble" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="earl_dan_t2_noble" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="vigmen" key="mk_nor_t2_orkney" max="RANGED"></MenAtArm>
 		<MenAtArm type="zbrojnosh" key="mk_pol_t2_heavy_axemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="cu_ko_nu" key="mk_mon_t1_fire_lance_infantry" max="RANGED"></MenAtArm>
@@ -1963,7 +1963,7 @@
 		<MenAtArm type="house_guard" key="mk_nor_t2_foot_riddere_bodyguard"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_teu_t2_halbbruder_heavy_axemen"></MenAtArm>
 
-		<MenAtArm type="varangian_veteran" key="mk_nor_t2_foot_riddere"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_nor_t2_foot_riddere"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_nor_t2_orkney"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_nor_t2_general_bodyguard"></MenAtArm>
@@ -2673,7 +2673,7 @@
 		<MenAtArm type="house_guard" key="mk_nor_t2_foot_riddere_bodyguard"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted"></MenAtArm>
 
-		<MenAtArm type="varangian_veteran" key="mk_nor_t2_foot_riddere"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_nor_t2_foot_riddere"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_wel_t2_teulu_saethwyr"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_nor_t2_general_bodyguard"></MenAtArm>
@@ -2704,7 +2704,7 @@
 
 		<MenAtArm type="longbowmen" key="mk_eng_t2_longbowmen"></MenAtArm>
 		<MenAtArm type="hobelar" key="mk_eng_t2_hobilars"></MenAtArm>
-		<MenAtArm type="varangian_veteran" key="mk_nor_t2_foot_riddere"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="mk_nor_t2_foot_riddere"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_eng_t2_retinue_longbowmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_eng_t2_banneret_knights"></MenAtArm>
