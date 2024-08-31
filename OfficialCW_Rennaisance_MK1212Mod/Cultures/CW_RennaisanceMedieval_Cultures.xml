@@ -20,7 +20,7 @@
 		<Culture name="misri" faction="Egyptian"></Culture>
 		<Culture name="maghrebi" faction="Maghrebi"></Culture>
 		<Culture name="mashriqi" faction="Abbasid"></Culture>
-		<Culture name="yemeni" faction="Bedouin"></Culture>
+		<Culture name="yemeni" faction="Abbasid"></Culture>
 		<Culture name="moroccan" faction="Baranis"></Culture>
 		<Culture name="algerian" faction="Baranis"></Culture>
 		<Culture name="tripolitanian" faction="Maghrebi"></Culture>
@@ -33,10 +33,11 @@
 		<Culture name="kulfoldi" faction="Outremer"></Culture>
 		<Culture name="dramor" faction="Outremer"></Culture>
 		<Culture name="coigriche" faction="Outremer"></Culture>
-		<Culture name="himyarite" faction="Bedouin"></Culture>
-		<Culture name="south_arabian" faction="Bedouin"></Culture>
-		<Culture name="soqotri" faction="Bedouin"></Culture>
-		<Culture name="mahri" faction="Bedouin"></Culture>
+		<Culture name="himyarite" faction="Abbasid"></Culture>
+		<Culture name="south_arabian" faction="Abbasid"></Culture>
+		<Culture name="soqotri" faction="Copt"></Culture>
+		<Culture name="mahri" faction="Abbasid"></Culture>
+		<Culture name="hadrami" faction="Bedouin"></Culture>
 	</Heritage>
 
 	<Heritage name="heritage_baltic" faction="Lithuanian">
@@ -68,7 +69,7 @@
 	<Heritage name="heritage_berber" faction="Baranis">
 		<Culture name="baranis" faction="Baranis"></Culture>
 		<Culture name="butr" faction="Butr"></Culture>
-		<Culture name="guanche" faction="Berber"></Culture>
+		<Culture name="guanche" faction="Baranis"></Culture>
 		<Culture name="zaghawa" faction="Sahelian"></Culture>
 		<Culture name="siculo_norman" faction="Sicilian"></Culture>
 		<Culture name="moroccan" faction="Baranis"></Culture>
@@ -356,7 +357,7 @@
 
 	<Heritage name="heritage_latin" faction="Florentine">
 		<Culture name="cisalpine" faction="Cisalpine"></Culture>
-		<Culture name="italian" faction="Papal States"></Culture>
+		<Culture name="italian" faction="Florentine"></Culture>
 		<Culture name="lombard" faction="Pisan"></Culture>
 		<Culture name="roman" faction="Roman"></Culture>
 		<Culture name="sardinian" faction="Sardinian"></Culture>

@@ -1084,8 +1084,8 @@
 	</Faction>	
 
 	<Faction name="French">
-		<General key="mk_fre_t2_kings_bodyguard"></General>
-		<Knights key="mk_fre_t2_general_bodyguard"></Knights>
+		<General key="mk_fre_t2_general_bodyguard"></General>
+		<Knights key="mk_fre_t2_chevaliers_mounted"></Knights>
 		
 		<Levies porcentage="65" key="mk_fre_t2_levy_spearmen"></Levies>
 		<Levies porcentage="25" key="mk_fre_t2_sergeants"></Levies>
@@ -1097,7 +1097,7 @@
 		<MenAtArm type="bowmen" key="mk_fre_t2_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_fre_t2_arbaletriers"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_fre_t2_mounted_sergeants"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_fre_t2_chevaliers_mounted"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_fre_t2_cliens"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_fre_t2_chevaliers_dismounted"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted"></MenAtArm>
 		
@@ -1299,8 +1299,8 @@
 	</Faction>		
 	
 	<Faction name="Castilian">
-		<General key="mk_cas_t2_king_bodyguard"></General>
-		<Knights key="mk_cas_t2_general_bodyguard"></Knights>
+		<General key="mk_cas_t2_general_bodyguard"></General>
+		<Knights key="mk_cas_t2_caballeros"></Knights>
 		
 		<Levies porcentage="65" key="mk_cas_t2_spear_militia"></Levies>
 		<Levies porcentage="25" key="mk_cas_t2_peones"></Levies>
@@ -1332,8 +1332,8 @@
 	</Faction>		
 
 	<Faction name="Basque">
-		<General key="mk_nav_t2_kings_bodyguard"></General>
-		<Knights key="mk_nav_t2_general_bodyguard"></Knights>
+		<General key="mk_nav_t2_general_bodyguard"></General>
+		<Knights key="mk_nav_t2_armados"></Knights>
 		
 		<Levies porcentage="35" key="mk_nav_t2_militia_guisarmiers"></Levies>
 		<Levies porcentage="25" key="mk_nav_t2_peones"></Levies>

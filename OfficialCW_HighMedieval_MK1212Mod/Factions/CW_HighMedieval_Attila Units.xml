@@ -522,7 +522,7 @@
 
 	<Faction name="Scottish">
 		<General key="mk_sco_t1_king_bodyguard"></General>
-		<Knights key="mk_sco_t1_general_bodyguard"></Knights>
+		<Knights key="mk_sco_t1_knights"></Knights>
 		
 		<Levies porcentage="65" key="mk_sco_t1_highlander_spear"></Levies>
 		<Levies porcentage="25" key="mk_sco_t1_sergeants"></Levies>
@@ -1286,8 +1286,8 @@
 	</Faction>		
 	
 	<Faction name="Castilian">
-		<General key="mk_cas_t1_king_bodyguard"></General>
-		<Knights key="mk_cas_t1_general_bodyguard"></Knights>
+		<General key="mk_cas_t1_general_bodyguard"></General>
+		<Knights key="mk_cas_t1_hidalgos"></Knights>
 		
 		<Levies porcentage="65" key="mk_cas_t1_spear_militia"></Levies>
 		<Levies porcentage="25" key="mk_cas_t1_peones"></Levies>
@@ -2898,9 +2898,10 @@
 		<General key="mk_flo_t1_bodyguard"></General>
 		<Knights key="mk_ita_t1_knights"></Knights>
 		
-		<Levies porcentage="65" key="mk_flo_t1_spear_militia"></Levies>
-		<Levies porcentage="25" key="mk_flo_t1_swordmen"></Levies>
+		<Levies porcentage="60" key="mk_flo_t1_spear_militia"></Levies>
+		<Levies porcentage="15" key="mk_flo_t1_swordmen"></Levies>
 		<Levies porcentage="10" key="mk_flo_t1_archer_militia"></Levies>
+		<Levies porcentage="15" key="mk_pap_t1_french_merc"></Levies>
 		
 		<MenAtArm type="light_footmen" key="mk_merc_ara_t1_almogavar"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_ita_t1_knights_dismounted"></MenAtArm>
@@ -2976,32 +2977,32 @@
 	</Faction>
 	
 	<Faction name="Savoyard">
-		<General key="mk_gen_t1_bodyguard"></General>
+		<General key="mk_pis_t1_bodyguard"></General>
 		<Knights key="mk_ita_t1_knights"></Knights>
 		
-		<Levies porcentage="65" key="mk_gen_t1_militia_spearmen"></Levies>
+		<Levies porcentage="65" key="mk_pis_t1_militia_spearmen"></Levies>
 		<Levies porcentage="25" key="mk_bur_t1_sergeants"></Levies>
-		<Levies porcentage="10" key="mk_gen_t1_militia_archer"></Levies>
+		<Levies porcentage="10" key="mk_pis_t1_militia_archer"></Levies>
 		
 		<MenAtArm type="light_footmen" key="mk_merc_fre_t1_gascon_bideaux"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_gen_t1_guelph_maa"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_pis_t1_foot_knights"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_merc_fre_t1_routiers_guisarmiers"></MenAtArm>
-		<MenAtArm type="bowmen" key="mk_gen_t1_archers"></MenAtArm>
-		<MenAtArm type="crossbowmen" key="mk_gen_t1_crossbowmen"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="mk_gen_t1_light_cav"></MenAtArm>
+		<MenAtArm type="bowmen" key="mk_pis_t1_archers"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="mk_pis_t1_ghibelline_crossbowmen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mk_pis_t1_berrovieri"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_merc_ita_t1_condottieri"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_bur_t1_dismounted_chevaliers"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t1_templar_knights_dismounted"></MenAtArm>
 		
-		<MenAtArm type="accolade_maa_archers" key="mk_gen_t1_archers"></MenAtArm>
+		<MenAtArm type="accolade_maa_archers" key="mk_pis_t1_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_bur_t1_chevaliers"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_merc_ita_t1_berrovieri"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_pis_t1_ghibelline_spearmen"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="mk_sic_t1_italian_jav_militia"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_ara_t1_almogavar"></MenAtArm>
 		<MenAtArm type="accolade_maa_vanguard" key="mk_nap_t1_guelph_maa"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="mk_merc_gen_t1_genoese_crossbowmen"></MenAtArm>
 	</Faction>
-
+	
 	<Faction name="Ottoman">
 		<General key="mk_rum_t1_sultan_bodyguards"></General>
 		<Knights key="mk_rum_t1_bodyguards"></Knights>

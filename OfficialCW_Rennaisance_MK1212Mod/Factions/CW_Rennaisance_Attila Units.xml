@@ -1087,7 +1087,7 @@
 
 	<Faction name="French">
 		<General key="mk_fre_t3_general_bodyguard"></General>
-		<Knights key="mk_fre_t3_gentilshommes_a_bec_de_corbin"></Knights>
+		<Knights key="mk_fre_t3_chevaliers_mounted"></Knights>
 		
 		<Levies porcentage="65" key="mk_fre_t3_levy_pavisiers"></Levies>
 		<Levies porcentage="25" key="mk_fre_t3_sergeants"></Levies>
@@ -1301,8 +1301,8 @@
 	</Faction>		
 	
 	<Faction name="Castilian">
-		<General key="mk_cas_t3_king_bodyguard"></General>
-		<Knights key="mk_cas_t3_general_bodyguard"></Knights>
+		<General key="mk_cas_t3_general_bodyguard"></General>
+		<Knights key="mk_cas_t3_caballeros"></Knights>
 		
 		<Levies porcentage="65" key="mk_cas_t3_spear_militia"></Levies>
 		<Levies porcentage="25" key="mk_cas_t3_peones_spearmen"></Levies>
@@ -1314,7 +1314,7 @@
 		<MenAtArm type="bowmen" key="mk_cas_t3_peones_crossbowmen"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_cas_t3_pavise_crossbowmen"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_cas_t3_caballeros_villanos"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_cas_t3_caballeros"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_cas_t3_hidalgos"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_cas_t3_monteros_de_espinosa"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t3_spanish_order_knights_dismounted"></MenAtArm>
 
@@ -1334,8 +1334,8 @@
 	</Faction>		
 
 	<Faction name="Basque">
-		<General key="mk_nav_t3_kings_bodyguard"></General>
-		<Knights key="mk_nav_t3_general_bodyguard"></Knights>
+		<General key="mk_nav_t3_general_bodyguard"></General>
+		<Knights key="mk_nav_t3_armados"></Knights>
 		
 		<Levies porcentage="35" key="mk_nav_t3_militia_guisarmiers"></Levies>
 		<Levies porcentage="25" key="mk_nav_t3_peones"></Levies>
