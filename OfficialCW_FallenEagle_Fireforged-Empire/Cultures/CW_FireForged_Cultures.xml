@@ -376,7 +376,7 @@
         <Culture name="sclavenian" faction="Sclavenian"></Culture>
 	</Heritage>
     <Heritage name="heritage_vlach" faction="Sclavenian">
-		<Culture name="vlach" faction="Sclavenian"></Culture>
+		<Culture name="vlach" faction="Sclavenian"></Culture>																												 
 	</Heritage>
     <Heritage name="heritage_ugro_permian" faction="Sclavenian">
 		<Culture name="mari" faction="Sclavenian"></Culture>
