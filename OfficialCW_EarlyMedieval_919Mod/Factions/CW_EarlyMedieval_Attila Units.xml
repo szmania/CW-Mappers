@@ -188,13 +188,13 @@
 		
 		<Levies porcentage="55" key="cha_mus_berber_spearmen"></Levies>
 		<Levies porcentage="20" key="cha_mus_andalusian_infantry"></Levies>
-		<Levies porcentage="10" key="cha_mus_archers"></Levies>
+		<Levies porcentage="10" key="att_des_es_ashum"></Levies>
 		<Levies porcentage="15" key="att_des_desert_raiders"></Levies>
 		
 		<MenAtArm type="light_footmen" key="att_des_es_tanukhid_ambushers"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="cha_mus_andalusian_warriors"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_mus_berber_warriors"></MenAtArm>
-		<MenAtArm type="bowmen" key="cha_mus_armoured_archers"></MenAtArm>
+		<MenAtArm type="bowmen" key="att_des_elite_nubian_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="cha_mus_berber_horsemen"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="cha_mus_andalusian_cav"></MenAtArm>
@@ -239,7 +239,7 @@
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
 		
-		<MenAtArm type="accolade_maa_archers" key="att_des_es_ashum"></MenAtArm>
+		<MenAtArm type="accolade_maa_archers" key="att_des_elite_nubian_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="att_des_es_al_shahba"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="att_des_kushite_mounted_shotelai"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_mus_umayyad_guardsmen"></MenAtArm>
@@ -279,6 +279,39 @@
 		<MenAtArm type="accolade_maa_outriders" key="cha_mus_andalusian_cav"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_mus_umayyad_guardsmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="cha_mus_slingers"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="att_des_es_noble_al_rahrain"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowmen" key="DEFAULT"></MenAtArm>
+	</Faction>
+	
+	<Faction name="Maghrebi">
+		<General key="cha_mus_umayyad_guard_cav"></General>
+		<Knights key="att_des_es_kings_radif"></Knights>
+		
+		<Levies porcentage="65" key="cha_mus_berber_spearmen"></Levies>
+		<Levies porcentage="20" key="cha_mus_andalusian_infantry"></Levies>
+		<Levies porcentage="10" key="cha_mus_archers"></Levies>
+		<Levies porcentage="5" key="att_des_arabic_horsemen"></Levies>
+		
+		<MenAtArm type="light_footmen" key="cha_mus_berber_levy"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="cha_mus_andalusian_warriors"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="cha_mus_berber_warriors"></MenAtArm>
+		<MenAtArm type="bowmen" key="att_des_elite_nubian_archers"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="cha_mus_berber_light_cav"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="att_des_es_al_shahba"></MenAtArm>
+		<MenAtArm type="house_guard" key="att_des_es_noble_al_rahrain"></MenAtArm>
+		<MenAtArm type="teutonic_knights" key="att_des_es_noble_al_rahrain"></MenAtArm>
+		
+		<MenAtArm type="camel_rider" key="att_des_camel_warriors"></MenAtArm>
+		<MenAtArm type="accolade_maa_camel_riders" key="att_des_camel_lancers"></MenAtArm>
+		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
+		
+		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="cha_mus_armoured_cav"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="cha_mus_berber_horsemen"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="cha_mus_umayyad_guardsmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="cha_mus_andalusian_skirm"></MenAtArm>
 		<MenAtArm type="accolade_maa_vanguard" key="att_des_es_noble_al_rahrain"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="DEFAULT"></MenAtArm>
 	</Faction>
@@ -351,7 +384,7 @@
 		<MenAtArm type="light_footmen" key="cha_mus_andalusian_skirm"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="cha_mus_andalusian_warriors"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_mus_berber_spearmen"></MenAtArm>
-		<MenAtArm type="bowmen" key="cha_mus_armoured_archers"></MenAtArm>
+		<MenAtArm type="bowmen" key="att_des_elite_nubian_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="cha_mus_berber_horsemen"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="cha_mus_andalusian_cav"></MenAtArm>
@@ -1070,7 +1103,7 @@
 		<MenAtArm type="light_footmen" key="cha_spa_ambushers"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="cha_spa_armoured_sword"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="cha_spa_spear"></MenAtArm>
-		<MenAtArm type="bowmen" key="cha_mus_armoured_archers"></MenAtArm>
+		<MenAtArm type="bowmen" key="att_ger_elite_germanic_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="cha_spa_iberian_cav"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="cha_spa_royal_knights"></MenAtArm>
@@ -1090,9 +1123,10 @@
 		<General key="att_est_spahbed"></General>
 		<Knights key="att_est_savaran_sardar"></Knights>
 		
-		<Levies porcentage="65" key="att_est_paighan_band"></Levies>
-		<Levies porcentage="25" key="att_est_persian_camel_archers"></Levies>
-		<Levies porcentage="10" key="att_est_persian_bowmen"></Levies>
+		<Levies porcentage="60" key="att_est_paighan_band"></Levies>
+		<Levies porcentage="15" key="att_des_es_al_rahrain"></Levies>
+		<Levies porcentage="15" key="att_est_persian_bowmen"></Levies>
+		<Levies porcentage="10" key="att_est_persian_camel_archers"></Levies>
 		
 		<MenAtArm type="light_footmen" key="att_est_persian_brigade"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="att_est_immortals"></MenAtArm>

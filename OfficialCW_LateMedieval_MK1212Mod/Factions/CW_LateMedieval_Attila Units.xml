@@ -1660,13 +1660,13 @@
 		<Levies porcentage="10" key="mk_pis_t2_militia_crossbowmen"></Levies>
 		
 		<MenAtArm type="light_footmen" key="mk_pis_t2_militia_swordsmen"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_pis_t2_foot_knights"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_nap_t2_concergius_guards"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pis_t2_spearmen"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_pis_t2_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_pis_t2_crossbowmen"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_pis_t2_mounted_serjeants"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_ita_t2_knights"></MenAtArm>
-		<MenAtArm type="house_guard" key="mk_ita_t2_knights_dismounted"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_pis_t2_foot_knights"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_hospitaller_knights_dismounted"></MenAtArm>
 
 		<MenAtArm type="picchieri" key="mk_pis_t2_pikemen"></MenAtArm>
@@ -1676,7 +1676,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="mk_pis_t2_mounted_serjeants"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_pis_t2_ronconieri"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_ara_t2_catalan_company"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="mk_ita_t2_knights"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="mk_pis_t2_foot_knights"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="mk_pis_t2_mounted_crossbowmen"></MenAtArm>
 	</Faction>
 

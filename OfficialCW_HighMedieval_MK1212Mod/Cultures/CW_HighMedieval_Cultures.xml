@@ -22,7 +22,7 @@
 		<Culture name="mashriqi" faction="Abbasid"></Culture>
 		<Culture name="yemeni" faction="Abbasid"></Culture>
 		<Culture name="moroccan" faction="Baranis"></Culture>
-		<Culture name="algerian" faction="Baranis"></Culture>
+		<Culture name="algerian" faction="Maghrebi"></Culture>
 		<Culture name="tripolitanian" faction="Maghrebi"></Culture>
 		<Culture name="tunisian" faction="Maghrebi"></Culture>
 		<Culture name="outremer" faction="Outremer"></Culture>
@@ -38,6 +38,8 @@
 		<Culture name="soqotri" faction="Copt"></Culture>
 		<Culture name="mahri" faction="Abbasid"></Culture>
 		<Culture name="hadrami" faction="Bedouin"></Culture>
+		<Culture name="siqilli" faction="Maghrebi"></Culture>
+		<Culture name="siculo_arabic" faction="Maghrebi"></Culture>
 	</Heritage>
 
 	<Heritage name="heritage_baltic" faction="Lithuanian">
@@ -333,6 +335,7 @@
 		<Culture name="turco-hephthalite" faction="Turko Persian"></Culture>
 		<Culture name="pashtun" faction="Afghan"></Culture>
 		<Culture name="alani" faction="Alan"></Culture>
+		<Culture name="alan" faction="Alan"></Culture>
 		<Culture name="semnani" faction="Daylamite"></Culture>
 		<Culture name="adhari" faction="Daylamite"></Culture>
 		<Culture name="mazanderani" faction="Daylamite"></Culture>
@@ -349,7 +352,9 @@
 		<Culture name="parthian" faction="Persian"></Culture>
 		<Culture name="bactrian" faction="Khorasani"></Culture>		
 		<Culture name="tokhari" faction="Turko Persian"></Culture>	
-		<Culture name="old_persian" faction="Persian"></Culture>		
+		<Culture name="old_persian" faction="Persian"></Culture>
+		<Culture name="elymaean" faction="Afghan"></Culture>
+		<Culture name="khalaj" faction="Turko Persian"></Culture>		
 	</Heritage>
 
 	<Heritage name="heritage_elamite" faction="Kurdish"></Heritage>
@@ -503,11 +508,14 @@
 		<Culture name="torkil" faction="Seljuk"></Culture>
 		<Culture name="yakut" faction="Siberian"></Culture>
 		<Culture name="basmyl" faction="Turko Persian"></Culture>
+		<Culture name="khalaj" faction="Turko Persian"></Culture>	
 	</Heritage>	
 	
 	<Heritage name="heritage_ugro_permian" faction="Siberian"></Heritage>
 	
 	<Heritage name="heritage_inuit" faction="Siberian"></Heritage>
+	
+	<Heritage name="heritage_paleo_inuit" faction="Siberian"></Heritage>
 	
 	<Heritage name="heritage_algonquian" faction="Siberian"></Heritage>
 	
@@ -654,6 +662,29 @@
 
 	<Heritage name="heritage_roman" faction="Roman"></Heritage>
 	
+	<Heritage name="heritage_malayic" faction="Burmese">
+		<Culture name="malagasy" faction="Horn African"></Culture>	
+	</Heritage>
+		
+	<Heritage name="heritage_chamic" faction="Burmese"></Heritage>	
+
+	<Heritage name="heritage_filipino" faction="Burmese"></Heritage>	
+
+	<Heritage name="heritage_yamato" faction="Tibetan"></Heritage>	
+
+	<Heritage name="heritage_khmer" faction="Burmese"></Heritage>	
+
+	<Heritage name="heritage_korean" faction="Tibetan"></Heritage>	
+	
+	<Heritage name="heritage_loloish" faction="Burmese"></Heritage>	
+	
+	<Heritage name="heritage_sulawesi" faction="Burmese"></Heritage>	
+	
+	<Heritage name="heritage_tai" faction="Burmese"></Heritage>	
+	
+	<Heritage name="heritage_vietic" faction="Burmese"></Heritage>	
+	
+	<Heritage name="heritage_irrawaddy" faction="Burmese"></Heritage>
 	
 </Cultures>
 

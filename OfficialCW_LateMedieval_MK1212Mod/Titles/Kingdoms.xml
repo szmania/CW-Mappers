@@ -85,6 +85,7 @@
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_ara_t2_catalan_company"></MenAtArm>
 		<MenAtArm type="accolade_maa_vanguard" key="mk_cas_t2_monteros_de_espinosa"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="mk_cas_t2_mounted_crossbowmen"></MenAtArm>
+	</Faction>
 	
 	<Faction title_key="k_navarra" name= "Navarra">
 		<General key="mk_nav_t2_kings_bodyguard"></General>

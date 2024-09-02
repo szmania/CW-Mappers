@@ -1636,7 +1636,7 @@
 		<Levies porcentage="10" key="mk_pis_t1_militia_archer"></Levies>
 		
 		<MenAtArm type="light_footmen" key="mk_merc_ara_t1_almogavar"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_pis_t1_foot_knights"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_nap_t1_guelph_maa"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_pis_t1_ghibelline_spearmen"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_pis_t1_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_pis_t1_ghibelline_crossbowmen"></MenAtArm>
