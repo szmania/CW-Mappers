@@ -40,6 +40,8 @@
 		<Culture name="hadrami" faction="Bedouin"></Culture>
 		<Culture name="siqilli" faction="Maghrebi"></Culture>
 		<Culture name="siculo_arabic" faction="Maghrebi"></Culture>
+		<Culture name="levantine" faction="Abbasid"></Culture>
+		<Culture name="hadhrami" faction="Abbasid"></Culture>
 	</Heritage>
 
 	<Heritage name="heritage_baltic" faction="Lithuanian">
@@ -368,6 +370,7 @@
 		<Culture name="sicilian" faction="Sicilian"></Culture>
 		<Culture name="venetian" faction="Venetian"></Culture>
 		<Culture name="venetian_ce" faction="Venetian"></Culture>
+		<Culture name="friuli_mpe" faction="Venetian"></Culture>	
 		<Culture name="ligurian" faction="Genoan"></Culture>
 		<Culture name="romagnol" faction="Florentine"></Culture>
 		<Culture name="tuscan" faction="Pisan"></Culture>
@@ -381,10 +384,16 @@
 		<Culture name="arpitan_ce" faction="Savoyard"></Culture>
 		<Culture name="dalmatian" faction="Dalmatian"></Culture>
 		<Culture name="dalmatian_ce" faction="Dalmatian"></Culture>
+		<Culture name="latin_mpe" faction="Dalmatian"></Culture>
 		<Culture name="pannonian" faction="Bosnian"></Culture>
 		<Culture name="pannonian_romance" faction="Dalmatian"></Culture>
+		<Culture name="umbrian_mpe" faction="Dalmatian"></Culture>
+		<Culture name="isaurian_mpe" faction="Dalmatian"></Culture>		
+		<Culture name="thracian_mpe" faction="Dalmatian"></Culture>	
+		<Culture name="macedonian_mpe" faction="Dalmatian"></Culture>	
 		<Culture name="african" faction="Roman African"></Culture>
 		<Culture name="genoese" faction="Genoan"></Culture>	
+		<Culture name="maltese" faction="Maghrebi"></Culture>	
 	</Heritage>	
 
 	<Heritage name="heritage_magyar" faction="Hungarian">

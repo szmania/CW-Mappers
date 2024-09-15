@@ -42,7 +42,7 @@
 		<MenAtArm type="guinea_warrior" key="att_des_es_afar_raidmasters" max="RANGED"></MenAtArm>
 		<MenAtArm type="horn_warrior" key="att_des_es_afar_swordsmen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="horse_archers" key="cha_avar_horse_archers" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="huscarl" key="cha_vik_housecarls" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="huscarl" key="cha_vik_warlords_companions" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="khandayat" key="att_est_elite_dailamite_infantry" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="hussar" key="cha_slav_konnica" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="garudas" key="att_des_es_athars_chosen" max="RANGED"></MenAtArm>
@@ -58,10 +58,10 @@
 		<MenAtArm type="sarawit" key="att_des_es_masqal_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="schiltron" key="att_ger_gothic_levy_pict" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="shomer" key="att_des_es_zealot_sicarius" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="varangian_veterans" key="cha_vik_warlords_companions" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="varangian_veterans" key="cha_vik_housecarls" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="vigmen" key="cha_vik_armoured_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="zbrojnosh" key="cha_slav_prvaci" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="cu_ko_nu" key="KOK_cha_gen_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="chu_ko_nu" key="KOK_cha_gen_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="landsknechts" key="att_rom_menaulatoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="praetorian" key="ERE_protectores_palatina" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="chasseurs" key="cha_lom_gastald_cav" max="CAVALRY"></MenAtArm>
@@ -72,7 +72,7 @@
 		<MenAtArm type="zupin_warrior" key="att_est_dailamite_warriors" max="INFANTRY"></MenAtArm>
 
 		<MenAtArm type="accolade_maa_elephantiers" key="att_est_indian_elephants" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="accolade_maa_horse_archers" key="att_avar_foot_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="cha_avar_noble_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_camel_riders" key="att_des_camel_warriors" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_archers" key="cha_gen_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="cha_spa_royal_cav" max="CAVALRY"></MenAtArm>
@@ -1019,7 +1019,7 @@
 		<Levies porcentage="25" key="att_slav_champions"></Levies>
 		<Levies porcentage="10" key="att_slav_archers"></Levies>
 		
-		<MenAtArm type="light_footmen" key="att_slav_axemen"></MenAtArm>
+		<MenAtArm type="light_footmen" key="REB_dediticii"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="att_slav_peruns_axes"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_slav_chosen_shields"></MenAtArm>
 		<MenAtArm type="bowmen" key="att_slav_hunters"></MenAtArm>
@@ -1105,7 +1105,7 @@
 		<MenAtArm type="pikemen_unit" key="cha_spa_spear"></MenAtArm>
 		<MenAtArm type="bowmen" key="att_ger_elite_germanic_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="cha_spa_iberian_cav"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="cha_spa_raider_cav"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="cha_spa_royal_knights"></MenAtArm>
 		<MenAtArm type="house_guard" key="cha_spa_royal_guardsmen"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen"></MenAtArm>
@@ -1603,7 +1603,7 @@
 		<MenAtArm type="accolade_maa_lancers" key="cha_slav_royal_cav"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="cha_slav_konnica"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_gen_armoured_spear"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="cha_slav_ambushers"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="REB_dediticii"></MenAtArm>
 		<MenAtArm type="accolade_maa_vanguard" key="cha_slav_prvaci"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="DEFAULT"></MenAtArm>
 	</Faction>
@@ -1732,7 +1732,7 @@
 		<Levies porcentage="20" key="att_ger_vandal_berserkers"></Levies>
 		<Levies porcentage="05" key="att_ger_germanic_mounted_brigands"></Levies>
 
-		<MenAtArm type="light_footmen" key="att_ger_elite_ostrogothic_pikemen"></MenAtArm>
+		<MenAtArm type="light_footmen" key="REB_dediticii"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="att_ger_germanic_nobles"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="att_ger_germanic_spearmen"></MenAtArm>
 		<MenAtArm type="bowmen" key="att_slav_archers"></MenAtArm>

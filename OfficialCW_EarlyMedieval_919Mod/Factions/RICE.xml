@@ -13,7 +13,7 @@
 		<MenAtArm type="RICE_bantu_warriors" key="att_des_es_marz_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="guanche_warrior" key="MAUR_agher_spears" max="RANGED"></MenAtArm>
 		<MenAtArm type="RICE_sicily_bowmen" key="cha_mus_armoured_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="RICE_arimanni" key="att_ger_godan" max="RANGED"></MenAtArm>
+		<MenAtArm type="RICE_arimanni" key="att_ger_godan's_chosen" max="INFANTRY"></MenAtArm>
 	</Faction>
 	
 </FactionsGroups>

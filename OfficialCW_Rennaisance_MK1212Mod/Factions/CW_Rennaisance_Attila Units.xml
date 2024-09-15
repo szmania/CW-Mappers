@@ -61,7 +61,7 @@
 		<MenAtArm type="varangian_veterans" key="mk_dan_t3_noble_longswords" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="vigmen" key="mk_nor_t2_orkney" max="RANGED"></MenAtArm>
 		<MenAtArm type="zbrojnosh" key="mk_boh_t3_2h_axemen" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="cu_ko_nu" key="mk_mon_t1_fire_lance_infantry" max="RANGED"></MenAtArm>
+		<MenAtArm type="chu_ko_nu" key="mk_mon_t1_fire_lance_infantry" max="RANGED"></MenAtArm>
 		<MenAtArm type="landsknechts" key="mk_hre_t3_doppelsoldner_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="praetorian" key="mk_epi_t3_vardariotai" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="chasseurs" key="mk_jer_t3_turcopole_scouts" max="CAVALRY"></MenAtArm>
