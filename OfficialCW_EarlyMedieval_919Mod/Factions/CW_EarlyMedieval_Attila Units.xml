@@ -139,6 +139,7 @@
 		<MenAtArm type="accolade_maa_camel_riders" key="att_des_es_jamal_al_baltha"></MenAtArm>
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mubs_rumat"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="att_des_es_al_shahba"></MenAtArm>
@@ -174,6 +175,7 @@
 		<MenAtArm type="accolade_maa_horse_archers" key="mubs_asawira"></MenAtArm>		
 		<MenAtArm type="mubarizun" key="mubs_mubarizun"></MenAtArm>
 		<MenAtArm type="asawira" key="mubs_asawira"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mubs_cataphracts"></MenAtArm>
@@ -208,6 +210,7 @@
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
 		<MenAtArm type="mubarizun" key="mubs_mubarizun"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mubs_asawira"></MenAtArm>
@@ -241,6 +244,7 @@
 		<MenAtArm type="accolade_maa_camel_riders" key="att_des_es_jamal_al_baltha"></MenAtArm>
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mubs_rumat"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="att_des_es_almaqahs_lancers"></MenAtArm>
@@ -274,6 +278,7 @@
 		<MenAtArm type="accolade_maa_camel_riders" key="att_des_es_jamal_al_baltha"></MenAtArm>
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="att_des_es_ashum"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="att_des_es_wadai"></MenAtArm>
@@ -310,6 +315,7 @@
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
 		<MenAtArm type="caballero" key="cha_mus_berber_jinetes"></MenAtArm>
 		<MenAtArm type="mubarizun" key="mubs_mubarizun"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="cha_mus_armoured_cav"></MenAtArm>
@@ -344,6 +350,7 @@
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
 		<MenAtArm type="mubarizun" key="mubs_mubarizun"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mubs_cataphracts"></MenAtArm>
@@ -434,6 +441,7 @@
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
 		<MenAtArm type="caballero" key="cha_mus_berber_jinetes"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="cha_mus_armoured_cav"></MenAtArm>
@@ -468,6 +476,7 @@
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
 		<MenAtArm type="caballero" key="cha_mus_berber_jinetes"></MenAtArm>
+		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mubs_rumat"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="cha_mus_armoured_cav"></MenAtArm>
