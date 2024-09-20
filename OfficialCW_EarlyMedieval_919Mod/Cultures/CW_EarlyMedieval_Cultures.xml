@@ -20,7 +20,7 @@
 		<Culture name="misri" faction="Egyptian"></Culture>
 		<Culture name="maghrebi" faction="Maghrebi"></Culture>
 		<Culture name="mashriqi" faction="Abbasid"></Culture>
-		<Culture name="yemeni" faction="Himyarite"></Culture>
+		<Culture name="yemeni" faction="South Arabian"></Culture>
 		<Culture name="moroccan" faction="Maghrebi"></Culture>
 		<Culture name="algerian" faction="Maghrebi"></Culture>
 		<Culture name="tripolitanian" faction="Maghrebi"></Culture>
@@ -34,14 +34,14 @@
 		<Culture name="dramor" faction="Outremer"></Culture>
 		<Culture name="coigriche" faction="Outremer"></Culture>
 		<Culture name="himyarite" faction="Himyarite"></Culture>
-		<Culture name="south_arabian" faction="Himyarite"></Culture>
+		<Culture name="south_arabian" faction="South Arabian"></Culture>
 		<Culture name="soqotri" faction="Himyarite"></Culture>
-		<Culture name="mahri" faction="Himyarite"></Culture>
+		<Culture name="mahri" faction="South Arabian"></Culture>
 		<Culture name="hadrami" faction="Bedouin"></Culture>
 		<Culture name="siqilli" faction="Maghrebi"></Culture>
 		<Culture name="siculo_arabic" faction="Maghrebi"></Culture>
 		<Culture name="levantine" faction="Abbasid"></Culture>
-		<Culture name="hadhrami" faction="Himyarite"></Culture>
+		<Culture name="hadhrami" faction="South Arabian"></Culture>
 	</Heritage>
 
 	<Heritage name="heritage_baltic" faction="Baltic">
@@ -392,6 +392,7 @@
 		<Culture name="macedonian_mpe" faction="Dalmatian"></Culture>			
 		<Culture name="african" faction="Roman African"></Culture>	
 		<Culture name="maltese" faction="Maghrebi"></Culture>	
+		<Culture name="romanesque" faction="Lombard"></Culture>
 	</Heritage>	
 
 	<Heritage name="heritage_magyar" faction="Hungarian">

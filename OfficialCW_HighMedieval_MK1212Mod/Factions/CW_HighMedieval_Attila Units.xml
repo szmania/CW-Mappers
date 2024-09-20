@@ -1119,7 +1119,7 @@
 		<MenAtArm type="armored_footmen" key="mk_tou_t1_dismounted_chevaliers"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_tou_t1_spearmen"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_tou_t1_archers"></MenAtArm>
-		<MenAtArm type="crossbowmen" key="mk_tou_t1_arbaletriers"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="mk_tou_t1_crossbowmen"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_tou_t1_mounted_sergeants"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_tou_t1_chevaliers"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_tou_t1_dismounted_chevaliers"></MenAtArm>

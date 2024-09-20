@@ -393,7 +393,8 @@
 		<Culture name="macedonian_mpe" faction="Dalmatian"></Culture>	
 		<Culture name="african" faction="Roman African"></Culture>
 		<Culture name="genoese" faction="Genoan"></Culture>	
-		<Culture name="maltese" faction="Maghrebi"></Culture>	
+		<Culture name="maltese" faction="Maghrebi"></Culture>
+		<Culture name="romanesque" faction="Florentine"></Culture>		
 	</Heritage>	
 
 	<Heritage name="heritage_magyar" faction="Hungarian">
