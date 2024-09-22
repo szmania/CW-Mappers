@@ -126,7 +126,7 @@
 
 	<Heritage name="heritage_central_african" faction="West African">
 		<Culture name="hausa" faction="West African"></Culture>
-		<Culture name="kanuri" faction="West African"></Culture>
+		<Culture name="kanuri" faction="Sahelian"></Culture>
 		<Culture name="nupe" faction="West African"></Culture>
 		<Culture name="sao" faction="West African"></Culture>
 	</Heritage>
@@ -645,10 +645,10 @@
 	
 	<Heritage name="heritage_saka" faction="Hephthalite"></Heritage>
 
-	<Heritage name="heritage_imazigen" faction="Berber">
-		<Culture name="baranis" faction="Berber"></Culture>
-		<Culture name="butr" faction="Berber"></Culture>
-		<Culture name="guanche" faction="Berber"></Culture>
+	<Heritage name="heritage_imazigen" faction="Baranis">
+		<Culture name="baranis" faction="Baranis"></Culture>
+		<Culture name="butr" faction="Butr"></Culture>
+		<Culture name="guanche" faction="Butr"></Culture>
 		<Culture name="zaghawa" faction="Sahelian"></Culture>
 		<Culture name="siculo_norman" faction="Norman"></Culture>
 		<Culture name="moroccan" faction="Maghrebi"></Culture>
