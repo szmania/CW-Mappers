@@ -519,6 +519,8 @@
 		<Culture name="yakut" faction="Siberian"></Culture>
 		<Culture name="basmyl" faction="Turko Persian"></Culture>
 		<Culture name="khalaj" faction="Turko Persian"></Culture>	
+		<Culture name="ongud" faction="Mongol"></Culture>
+		<Culture name="turkmen" faction="Ottoman"></Culture>
 	</Heritage>	
 	
 	<Heritage name="heritage_ugro_permian" faction="Siberian"></Heritage>
@@ -633,6 +635,8 @@
 	<Heritage name="heritage_gothic" faction="Gothic"></Heritage>	
 
 	<Heritage name="heritage_arberian" faction="Vlach"></Heritage>
+
+	<Heritage name="heritage_albanian" faction="Vlach"></Heritage>
 	
 	<Heritage name="heritage_aramean" faction="Syriac">
 		<Culture name="syriac" faction="Syriac"></Culture>	

@@ -517,6 +517,8 @@
 		<Culture name="yakut" faction="Permian"></Culture>
 		<Culture name="basmyl" faction="Eastern Steppe"></Culture>
 		<Culture name="khalaj" faction="Hephthalite"></Culture>
+		<Culture name="ongud" faction="Eastern Steppe"></Culture>
+		<Culture name="turkmen" faction="Turkic"></Culture>
 	</Heritage>	
 	
 	<Heritage name="heritage_ugro_permian" faction="Permian"></Heritage>
@@ -631,6 +633,8 @@
 	<Heritage name="heritage_gothic" faction="Gothic"></Heritage>	
 
 	<Heritage name="heritage_arberian" faction="Slavic"></Heritage>
+
+	<Heritage name="heritage_albanian" faction="Slavic"></Heritage>
 	
 	<Heritage name="heritage_aramean" faction="Assyrian">
 		<Culture name="syriac" faction="Syriac"></Culture>	

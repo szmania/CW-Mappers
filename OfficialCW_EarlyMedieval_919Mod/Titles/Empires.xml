@@ -11,8 +11,8 @@
 		<Knights key="att_rom_excubitores_cavalry_guard"></Knights>
 		
 		<MenAtArm type="light_footmen" key="att_rom_levis_armaturae"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="bel_rom_skutatoi_spears_1"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="ERE_transtigritiani_spears"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="ERE_bucellarii_pedites"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="ERE_quartoparthoi_swords"></MenAtArm>
 		<MenAtArm type="bowmen" key="att_rom_armoured_sagittarii"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="att_rom_ballistarii"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="ERE_equites_tertio_dalmatae"></MenAtArm>
@@ -30,7 +30,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="ERE_limitanei_levy_lancers"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="att_rom_numeroi"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="att_rom_exculcatores"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="ERE_bucellarii_pedites"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="att_rom_hetaireia_guards"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="att_rom_elite_ballistarii"></MenAtArm>
 	</Faction>
 	

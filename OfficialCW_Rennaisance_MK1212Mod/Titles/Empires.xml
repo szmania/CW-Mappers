@@ -12,7 +12,7 @@
 		
 		<MenAtArm type="light_footmen" key="mk_nic_t3_tzakones"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_nic_t3_paramonai"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mk_nic_t3_megaloallagitai_spearmen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_tre_t3_menavlatoi"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_nic_t3_megalloallagitai_toxotes"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_nic_t3_tzangratoroi"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_nic_t3_megaloallagitai"></MenAtArm>
@@ -22,7 +22,8 @@
 		
 		<MenAtArm type="horse_archers" key="mk_nic_t3_hippotourkoupoloi"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_nic_t3_hippotoxotai"></MenAtArm>
-
+		<MenAtArm type="skoutatoi" key="mk_tre_t3_scoutatoi"></MenAtArm>
+		
 		<MenAtArm type="accolade_maa_archers" key="mk_nic_t3_mourtatoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_nic_t3_hippoparamonai"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_tre_t3_oiketai"></MenAtArm>

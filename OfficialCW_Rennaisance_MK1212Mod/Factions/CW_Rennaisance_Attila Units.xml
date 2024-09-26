@@ -24,6 +24,11 @@
 		<MenAtArm type="house_guard" key="mk_merc_swi_t3_swiss_halberdiers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t3_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="jomsviking_pirates" key="mk_lit_t3_axemen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="handpicked_faithful" key="mk_merc_eur_t3_dismounted_MAA" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="maa_bandits" key="mk_merc_ara_t3_almogavar" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="maa_poachers" key="mk_merc_wel_t3_longbowmen" max="RANGED"></MenAtArm>
+		<MenAtArm type="maa_marauders" key="mk_merc_ita_t3_berrovieri" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="maa_thieves" key="mk_merc_ita_t3_ronconieri" max="INFANTRY"></MenAtArm>		
 
 		<MenAtArm type="caballero" key="mk_cas_t3_jinetes" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="camel_rider" key="mk_abb_t3_bedouin_camel_riders" max="CAVALRY"></MenAtArm>
@@ -52,7 +57,7 @@
 		<MenAtArm type="mountaineer" key="mk_volga_t3_archer_halberdier" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mubarizun" key="mk_abb_t3_dismounted_mamluks" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mulathamun" key="mk_alm_t3_shaykh_al_ghuzat" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="nile_archer" key="mk_mak_t3_nubian_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="archers_of_the_nile" key="mk_mak_t3_nubian_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="palace_guard" key="mk_ghu_t3_royal_paiks" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="picchieri" key="mk_gen_t3_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="sarawit" key="earl_zag_t3_chief_warrior" max="INFANTRY"></MenAtArm>
@@ -65,12 +70,18 @@
 		<MenAtArm type="landsknechts" key="mk_hre_t3_doppelsoldner_pikemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="praetorian" key="mk_epi_t3_vardariotai" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="chasseurs" key="mk_jer_t3_turcopole_scouts" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="vaulter_infantry" key="mk_gran_t3_ghumara_tribesmen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="guanch_vaulter" key="mk_gran_t3_ghumara_tribesmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="asawira" key="mk_khw_t3_gorchu" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="mk_ilkhan_t3_baatar_khisigten" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tawashi" key="mk_haz_t3_hazaraspid_mounted_askari" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="zupin_warrior" key="mk_per_t3_daylami_skirmishers" max="INFANTRY"></MenAtArm>
-
+		<MenAtArm type="ayrudzi" key="mk_arm_t3_serzhantner" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="conrois" key="mk_merc_ita_t3_condottieri" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="akritai" key="mk_nic_t3_tzakones" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="ballistrai" key="mk_byz_t1_ballista" max="RANGED"></MenAtArm>
+		<MenAtArm type="skoutatoi" key="mk_nic_t3_megaloallagitai_spearmen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="varangian_guards" key="mk_nic_t3_englinovarangoi" max="INFANTRY"></MenAtArm>
+		
 		<MenAtArm type="accolade_maa_elephantiers" key="mk_ghu_t3_war_elephants" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_gold_t3_khorchi_khisigten" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_camel_riders" key="mk_alm_t3_tuareg_camel_riders" max="CAVALRY"></MenAtArm>
@@ -645,20 +656,20 @@
 	</Faction>	
 
 	<Faction name="Armenian">
-		<General key="mk_arm_t3_king"></General>
-		<Knights key="mk_arm_t3_goundesdapel_and_bodyguards"></Knights>
+		<General key="mk_arm_t3_goundesdapel_and_bodyguards"></General>
+		<Knights key="mk_arm_t3_archer_dziaworner"></Knights>
 		
-		<Levies porcentage="55" key="mk_arm_t3_bourdjes_militia"></Levies>
+		<Levies porcentage="50" key="mk_arm_t3_bourdjes_militia"></Levies>
 		<Levies porcentage="25" key="mk_arm_t3_foot_serzhantner"></Levies>
 		<Levies porcentage="10" key="mk_arm_t3_bourdjes_archers"></Levies>
-		<Levies porcentage="10" key="mk_arm_t3_archer_dziaworner"></Levies>
+		<Levies porcentage="15" key="mk_arm_t3_aspatakner"></Levies>
 		
 		<MenAtArm type="light_footmen" key="mk_arm_t2_bardzraharker"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_arm_t3_dismounted_dziaworner"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_arm_t3_spear_serzhantner"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_arm_t3_archer_serzhantner"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_arm_t3_italian_colonials"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="mk_arm_t3_serzhantner"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mk_arm_t3_turcopoles"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_arm_t3_dziaworner"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_arm_t3_dismounted_archer_dziaworner"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_arm_t3_dismounted_dziaworner"></MenAtArm>
@@ -668,7 +679,7 @@
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_arm_t3_dismounted_archer_dziaworner"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_arm_t3_aspetner"></MenAtArm>
-		<MenAtArm type="accolade_maa_outriders" key="mk_arm_t3_turcopoles"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_arm_t3_serzhantner"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_tre_t3_kontaratoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_arm_t3_bourdjes_handgunners"></MenAtArm>
 		<MenAtArm type="accolade_maa_vanguard" key="mk_arm_t3_dismounted_dziaworner"></MenAtArm>
@@ -715,7 +726,7 @@
 		
 		<MenAtArm type="light_footmen" key="mk_nic_t3_tzakones"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_nic_t2_megaloallagitai_swordsmen"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mk_nic_t3_megaloallagitai_spearmen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_nic_t3_menavlatoi"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_nic_t3_megalloallagitai_toxotes"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_nic_t3_tzangratoroi"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_nic_t3_megaloallagitai"></MenAtArm>

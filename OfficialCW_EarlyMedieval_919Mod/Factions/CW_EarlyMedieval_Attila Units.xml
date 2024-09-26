@@ -24,7 +24,12 @@
 		<MenAtArm type="house_guard" key="cha_spa_royal_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="jomsviking_pirates" key="cha_vik_big_axes" max="INFANTRY"></MenAtArm>
-
+		<MenAtArm type="handpicked_faithful" key="att_slav_warlords_guard" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="maa_bandits" key="BAL_woodsmen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="maa_poachers" key="BRIT_saethwyr" max="RANGED"></MenAtArm>
+		<MenAtArm type="maa_marauders" key="BAL_nordic_retinue" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="maa_thieves" key="BRIT_aulue" max="INFANTRY"></MenAtArm>		
+		
 		<MenAtArm type="caballero" key="cha_spa_jinetes" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="camel_rider" key="att_des_camel_warriors" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="hobelar" key="cha_lom_night_raiders" max="CAVALRY"></MenAtArm>
@@ -50,9 +55,9 @@
 		<MenAtArm type="metsanvartija" key="att_slav_posion_hunters" max="RANGED"></MenAtArm>
 		<MenAtArm type="monaspa" key="att_alan_sarmatian_cataphracts_infantry_destroyer_tier_5" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="mountaineer" key="KOK_axe_warriors" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="mubarizun" key="att_des_es_athars_chosen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="mubarizun" key="mubs_mubarizun" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="mulathamun" key="mubs_mulathanum" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="nile_archer" key="att_des_es_marz_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="archers_of_the_nile" key="att_des_es_marz_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="palace_guard" key="KOK_cha_gen_spear" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="picchieri" key="cha_gen_armoured_spear" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="sarawit" key="att_des_es_masqal_spearmen" max="INFANTRY"></MenAtArm>
@@ -65,12 +70,18 @@
 		<MenAtArm type="landsknechts" key="att_rom_menaulatoi" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="praetorian" key="ERE_protectores_palatina" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="chasseurs" key="cha_lom_gastald_cav" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="vaulter_infantry" key="MERC_MAURI_tribal_warriors" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="guanch_vaulter" key="MERC_MAURI_tribal_warriors" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="asawira" key="att_est_gyan_avspar" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tarkhan" key="att_est_zhayedan_immortal_cavalry" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="tawashi" key="SAS_fursan" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="zupin_warrior" key="att_est_dailamite_warriors" max="INFANTRY"></MenAtArm>
-
+		<MenAtArm type="ayrudzi" key="SAS_frasdaran" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="conrois" key="cha_nor_chef" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="akritai" key="BRIT_exculcatores" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="ballistrai" key="att_rom_cheiroballistra" max="RANGED"></MenAtArm>
+		<MenAtArm type="skoutatoi" key="bel_rom_skutatoi_spears_1" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="varangian_guards" key="cha_eng_huscarlas" max="INFANTRY"></MenAtArm>
+		
 		<MenAtArm type="accolade_maa_elephantiers" key="att_est_indian_elephants" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="cha_avar_noble_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_camel_riders" key="att_des_camel_lancers" max="CAVALRY"></MenAtArm>
@@ -173,7 +184,6 @@
 		<MenAtArm type="accolade_maa_camel_riders" key="mubs_camel_riders"></MenAtArm>
 		<MenAtArm type="horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mubs_asawira"></MenAtArm>		
-		<MenAtArm type="mubarizun" key="mubs_mubarizun"></MenAtArm>
 		<MenAtArm type="asawira" key="mubs_asawira"></MenAtArm>
 		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
@@ -209,7 +219,6 @@
 		<MenAtArm type="accolade_maa_camel_riders" key="att_des_camel_lancers"></MenAtArm>
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
-		<MenAtArm type="mubarizun" key="mubs_mubarizun"></MenAtArm>
 		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
@@ -217,7 +226,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="mubs_mulathanum"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_mus_umayyad_guardsmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mubs_rijal"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="mubs_house_guards"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="att_des_es_athars_chosen"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="DEFAULT"></MenAtArm>
 	</Faction>
 
@@ -285,7 +294,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="att_des_es_al_dawser"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="att_des_es_tanukhid_pikes"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="att_des_es_tanukhid_ambushers"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="att_des_es_baltha_defenders"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="att_des_es_athars_chosen"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="DEFAULT"></MenAtArm>
 	</Faction>
 	
@@ -322,7 +331,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="cha_mus_andalusian_cav"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_mus_umayyad_guardsmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="cha_mus_slingers"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="att_des_es_noble_al_rahrain"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="att_des_es_athars_chosen"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="DEFAULT"></MenAtArm>
 	</Faction>
 	
@@ -349,7 +358,6 @@
 		<MenAtArm type="accolade_maa_camel_riders" key="att_des_camel_lancers"></MenAtArm>
 		<MenAtArm type="horse_archers" key="att_des_es_mounted_marz_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_des_es_zodiac_archers"></MenAtArm>
-		<MenAtArm type="mubarizun" key="mubs_mubarizun"></MenAtArm>
 		<MenAtArm type="cataphract" key="mubs_cataphracts"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
@@ -456,10 +464,10 @@
 		<General key="mubs_berber_nobles"></General>
 		<Knights key="mubs_berber_lesser_nobles"></Knights>
 		
-		<Levies porcentage="40" key="mubs_berber_levy_spears"></Levies>
+		<Levies porcentage="30" key="mubs_berber_levy_spears"></Levies>
 		<Levies porcentage="40" key="mubs_berber_levy_jav_cav"></Levies>
 		<Levies porcentage="10" key="mubs_berber_levy_javs"></Levies>
-		<Levies porcentage="10" key="mubs_berber_levy_cav"></Levies>
+		<Levies porcentage="20" key="mubs_berber_levy_cav"></Levies>
 		
 		<MenAtArm type="light_footmen" key="mubs_berber_light_footmen"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mubs_berber_armored_footmen"></MenAtArm>
@@ -693,10 +701,10 @@
 		<General key="ARM_nakhara"></General>
 		<Knights key="ARM_azats"></Knights>
 		
-		<Levies porcentage="55" key="ARM_spear_levy"></Levies>
+		<Levies porcentage="50" key="ARM_spear_levy"></Levies>
 		<Levies porcentage="25" key="ARM_town_levy"></Levies>
 		<Levies porcentage="10" key="ARM_mountain_archers"></Levies>
-		<Levies porcentage="10" key="ARM_horseman_levy"></Levies>
+		<Levies porcentage="15" key="ARM_horseman_levy"></Levies>
 		
 		<MenAtArm type="light_footmen" key="ARM_skirmishers"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="ARM_heavy_axemen"></MenAtArm>
@@ -761,7 +769,7 @@
 		<Levies porcentage="10" key="att_rom_sagittarii"></Levies>
 		
 		<MenAtArm type="light_footmen" key="att_rom_levis_armaturae"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="bel_rom_skutatoi_spears_1"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="ERE_bucellarii_pedites"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="ERE_transtigritiani_spears"></MenAtArm>
 		<MenAtArm type="bowmen" key="att_rom_armoured_sagittarii"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="att_rom_ballistarii"></MenAtArm>
@@ -780,7 +788,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="ERE_limitanei_levy_lancers"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="att_rom_numeroi"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="att_rom_exculcatores"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguard" key="ERE_bucellarii_pedites"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguard" key="att_rom_hetaireia_guards"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="att_rom_elite_ballistarii"></MenAtArm>
 	</Faction>
 	
@@ -1349,7 +1357,7 @@
 		
 		<MenAtArm type="camel_rider" key="att_est_persian_camel_raiders"></MenAtArm>
 		<MenAtArm type="accolade_maa_camel_riders" key="att_est_sogdian_camel_raiders"></MenAtArm>
-		<MenAtArm type="horse_archers" key="att_nom_hunnic_horse_archers"></MenAtArm>
+		<MenAtArm type="horse_archers" key="att_wh_spet_xyon_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="HEP_spet_xyon_noble_horse_archers"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="att_nom_uar_archers"></MenAtArm>
@@ -1455,8 +1463,8 @@
 		<Levies porcentage="50" key="LOM_fara_spears"></Levies>
 		<Levies porcentage="15" key="att_ger_noble_germanic_swordsmen"></Levies>
 		<Levies porcentage="10" key="att_ger_germanic_hunters"></Levies>
-		<Levies porcentage="10" key="att_nom_hunnic_devil_archers"></Levies>
-		<Levies porcentage="15" key="att_nom_steppe_horse_archers"></Levies>
+		<Levies porcentage="5" key="att_nom_hunnic_devil_archers"></Levies>
+		<Levies porcentage="20" key="att_nom_steppe_horse_archers"></Levies>
 		
 		<MenAtArm type="light_footmen" key="att_ger_germanic_band"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="att_ger_godansmen"></MenAtArm>
@@ -1469,7 +1477,7 @@
 		<MenAtArm type="teutonic_knights" key="ERE_dismounted_excubitores_2"></MenAtArm>
 
 		<MenAtArm type="hussar" key="LOM_exercitales"></MenAtArm>
-		<MenAtArm type="horse_archers" key="att_nom_avar_horde"></MenAtArm>
+		<MenAtArm type="horse_archers" key="att_nom_hunnic_mounted_bows"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_nom_hunnic_devil_archers"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="att_ger_elite_germanic_archers"></MenAtArm>
@@ -1522,15 +1530,15 @@
 		<MenAtArm type="pikemen_unit" key="att_est_persian_levy"></MenAtArm>
 		<MenAtArm type="bowmen" key="att_nom_uar_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="att_nom_unnigarde"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="att_nom_noble_steppe_cataphracts"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="HEP_spet_xyon_horsemen"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="HEP_kushan_cataphracts"></MenAtArm>
 		<MenAtArm type="house_guard" key="att_est_immortals"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="att_est_sogdian_warriors"></MenAtArm>
 		
 		<MenAtArm type="camel_rider" key="att_est_sogdian_camel_raiders"></MenAtArm>
 		<MenAtArm type="accolade_maa_camel_riders" key="att_est_sogdian_camel_raiders"></MenAtArm>
-		<MenAtArm type="horse_archers" key="att_nom_noble_horse_archers"></MenAtArm>
-		<MenAtArm type="accolade_maa_horse_archers" key="att_nom_nokkors"></MenAtArm>
+		<MenAtArm type="horse_archers" key="HEP_spet_xyon_noble_horse_archers"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="att_nom_hunnic_devil_archers"></MenAtArm>
 
 		<MenAtArm type="accolade_maa_archers" key="att_est_royal_persian_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="att_est_pushtighban_cataphracts"></MenAtArm>
