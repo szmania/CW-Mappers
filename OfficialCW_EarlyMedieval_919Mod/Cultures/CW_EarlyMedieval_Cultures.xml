@@ -186,7 +186,8 @@
 		<Culture name="berta" faction="Coptic"></Culture>
 		<Culture name="omotic" faction="Horn African"></Culture>
 		<Culture name="habesha" faction="Coptic"></Culture>
-		<Culture name="amhara" faction="Coptic"></Culture>	
+		<Culture name="amhara" faction="Coptic"></Culture>
+		<Culture name="beja" faction="Horn African"></Culture>		
 	</Heritage>
 
 	<Heritage name="heritage_east_slavic" faction="Rus">
@@ -577,7 +578,7 @@
 		<Culture name="sorbian" faction="Wendish"></Culture>
 		<Culture name="veleti" faction="Wendish"></Culture>
 		<Culture name="obotrite" faction="Wendish"></Culture>
-		<Culture name="lutician" faction="Wendishc"></Culture>
+		<Culture name="lutician" faction="Wendish"></Culture>
 		<Culture name="ranian" faction="Wendish"></Culture>
 		<Culture name="polish" faction="Slavic"></Culture>
 		<Culture name="polan" faction="Slavic"></Culture>
@@ -598,6 +599,8 @@
 	</Heritage>
 
 	<Heritage name="heritage_caucasian" faction="Georgian">
+		<Culture name="armenian" faction="Armenian"></Culture>
+		<Culture name="georgian" faction="Georgian"></Culture>
 		<Culture name="svan" faction="Georgian"></Culture>
 		<Culture name="ce_svan" faction="Georgian"></Culture>
 		<Culture name="abkhaz" faction="Alan"></Culture>
@@ -640,7 +643,13 @@
 		<Culture name="syriac" faction="Syriac"></Culture>	
 		<Culture name="mandaic" faction="Assyrian"></Culture>	
 	</Heritage>
-
+	
+	<Heritage name="heritage_syriac" faction="Assyrian">
+		<Culture name="syriac" faction="Syriac"></Culture>	
+		<Culture name="mandaic" faction="Assyrian"></Culture>	
+		<Culture name="nabati" faction="Assyrian"></Culture>	
+	</Heritage>
+	
 	<Heritage name="heritage_serindian" faction="Hephthalite"></Heritage>
 
 	<Heritage name="heritage_armenian" faction="Armenian"></Heritage>
