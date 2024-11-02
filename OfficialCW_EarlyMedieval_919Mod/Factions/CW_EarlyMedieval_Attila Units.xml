@@ -174,7 +174,7 @@
 	</Faction>
 
 	<Faction name="Abbasid">
-		<General key="mubs_arab_nobles"></General>
+		<General key="mubs_ghulam_bodyguards"></General>
 		<Knights key="mubs_arab_lesser_nobles"></Knights>
 		
 		<Levies porcentage="55" key="mubs_arab_levy_spears"></Levies>
@@ -215,18 +215,18 @@
 	</Faction>
 	
 	<Faction name="Egyptian">
-		<General key="cha_mus_umayyad_guard_cav"></General>
-		<Knights key="cha_mus_armoured_cav"></Knights>
+		<General key="mubs_arab_nobles"></General>
+		<Knights key="mubs_arab_lesser_nobles"></Knights>
 		
-		<Levies porcentage="55" key="cha_mus_berber_spearmen"></Levies>
-		<Levies porcentage="20" key="cha_mus_andalusian_infantry"></Levies>
+		<Levies porcentage="55" key="mubs_bedouin_levy_spears"></Levies>
+		<Levies porcentage="20" key="mubs_arab_levy_swords"></Levies>
 		<Levies porcentage="10" key="mubs_arab_levy_bows"></Levies>
-		<Levies porcentage="15" key="cha_mus_berber_horsemen"></Levies>
+		<Levies porcentage="15" key="mubs_bedouin_levy_cav"></Levies>
 		
 		<MenAtArm type="light_footmen" key="att_des_es_tanukhid_ambushers"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="cha_mus_andalusian_warriors"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="cha_mus_berber_warriors"></MenAtArm>
-		<MenAtArm type="bowmen" key="att_des_elite_nubian_archers"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mubs_armored_footmen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mubs_pikemen"></MenAtArm>
+		<MenAtArm type="bowmen" key="mubs_bowmen"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mubs_light_horsemen"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mubs_armored_horsemen"></MenAtArm>
@@ -377,17 +377,17 @@
 	</Faction>
 	
 	<Faction name="Maghrebi">
-		<General key="mubs_arab_nobles"></General>
+		<General key="mubs_maghrebi_nobles"></General>
 		<Knights key="mubs_arab_lesser_nobles"></Knights>
 		
 		<Levies porcentage="65" key="mubs_arab_levy_spears"></Levies>
 		<Levies porcentage="20" key="mubs_arab_levy_swords"></Levies>
-		<Levies porcentage="10" key="mubs_berber_levy_bows"></Levies>
-		<Levies porcentage="5" key="mubs_berber_levy_cav"></Levies>
+		<Levies porcentage="10" key="mubs_maghrebi_levy_bows"></Levies>
+		<Levies porcentage="5" key="mubs_maghrebi_levy_cav"></Levies>
 		
-		<MenAtArm type="light_footmen" key="mubs_berber_light_footmen"></MenAtArm>
+		<MenAtArm type="light_footmen" key="mubs_maghrebi_light_footmen"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mubs_bedouin_armored_footmen"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mubs_berber_pikemen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mubs_maghrebi_pikemen"></MenAtArm>
 		<MenAtArm type="bowmen" key="mubs_bowmen"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mubs_light_horsemen"></MenAtArm>
@@ -418,7 +418,7 @@
 
 	<Faction name="Baltic">
 		<General key="BAL_mounted_chieftains_retinue"></General>
-		<Knights key="BAL_chieftains_retinue"></Knights>
+		<Knights key="BAL_chieftains_retinue"></Knights> 
 		
 		<Levies porcentage="50" key="BAL_spears"></Levies>
 		<Levies porcentage="30" key="BAL_kursi"></Levies>
@@ -474,20 +474,20 @@
 
 	<Faction name="Baranis">
 		<General key="mubs_berber_nobles"></General>
-		<Knights key="mubs_berber_lesser_nobles"></Knights>
+		<Knights key="mubs_maghrebi_lesser_nobles"></Knights>
 		
-		<Levies porcentage="50" key="mubs_berber_levy_spears"></Levies>
-		<Levies porcentage="25" key="mubs_berber_levy_cav"></Levies>
-		<Levies porcentage="10" key="mubs_berber_levy_bows"></Levies>
-		<Levies porcentage="15" key="mubs_berber_levy_swords"></Levies>
+		<Levies porcentage="50" key="mubs_maghrebi_levy_spears"></Levies>
+		<Levies porcentage="25" key="mubs_maghrebi_levy_cav"></Levies>
+		<Levies porcentage="10" key="mubs_maghrebi_levy_bows"></Levies>
+		<Levies porcentage="15" key="mubs_maghrebi_levy_swords"></Levies>
 		
-		<MenAtArm type="light_footmen" key="mubs_berber_light_footmen"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mubs_berber_armored_footmen"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mubs_berber_pikemen"></MenAtArm>
-		<MenAtArm type="bowmen" key="mubs_berber_bowmen"></MenAtArm>
+		<MenAtArm type="light_footmen" key="mubs_maghrebi_light_footmen"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mubs_maghrebi_armored_footmen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mubs_maghrebi_pikemen"></MenAtArm>
+		<MenAtArm type="bowmen" key="mubs_maghrebi_bowmen"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="mubs_berber_light_horsemen"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mubs_berber_armored_horsemen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mubs_maghrebi_light_horsemen"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mubs_maghrebi_armored_horsemen"></MenAtArm>
 		<MenAtArm type="house_guard" key="mubs_house_guards"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mubs_house_guards"></MenAtArm>
 		
@@ -515,20 +515,20 @@
 
 	<Faction name="Butr">
 		<General key="mubs_berber_nobles"></General>
-		<Knights key="mubs_berber_lesser_nobles"></Knights>
+		<Knights key="mubs_maghrebi_lesser_nobles"></Knights>
 		
-		<Levies porcentage="30" key="mubs_berber_levy_spears"></Levies>
-		<Levies porcentage="40" key="mubs_berber_levy_jav_cav"></Levies>
-		<Levies porcentage="10" key="mubs_berber_levy_javs"></Levies>
-		<Levies porcentage="20" key="mubs_berber_levy_cav"></Levies>
+		<Levies porcentage="30" key="mubs_maghrebi_levy_spears"></Levies>
+		<Levies porcentage="40" key="mubs_maghrebi_levy_jav_cav"></Levies>
+		<Levies porcentage="10" key="mubs_maghrebi_levy_javs"></Levies>
+		<Levies porcentage="20" key="mubs_maghrebi_levy_cav"></Levies>
 		
-		<MenAtArm type="light_footmen" key="mubs_berber_light_footmen"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mubs_berber_armored_footmen"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mubs_berber_pikemen"></MenAtArm>
-		<MenAtArm type="bowmen" key="mubs_berber_bowmen"></MenAtArm>
+		<MenAtArm type="light_footmen" key="mubs_maghrebi_light_footmen"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mubs_maghrebi_armored_footmen"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mubs_maghrebi_pikemen"></MenAtArm>
+		<MenAtArm type="bowmen" key="mubs_maghrebi_bowmen"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="mubs_berber_light_horsemen"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mubs_berber_armored_horsemen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mubs_maghrebi_light_horsemen"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mubs_maghrebi_armored_horsemen"></MenAtArm>
 		<MenAtArm type="house_guard" key="mubs_house_guards"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mubs_house_guards"></MenAtArm>
 		
