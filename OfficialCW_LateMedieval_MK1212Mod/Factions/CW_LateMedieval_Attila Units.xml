@@ -15,16 +15,16 @@
 		<!--Don't forget you can also change the max value to a number instead of a type name!-->
 		<MenAtArm type="light_footmen" key="mk_merc_ara_t2_catalan_company" max="400"></MenAtArm>
 		
-		<MenAtArm type="armored_footmen" key="mk_merc_eur_t2_dismounted_MAA" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_bur_t2_ducal_heavy_foot_guards" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_merc_ger_t2_halberdiers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_tri_t2_elector_bowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_tri_t2_elector_crossbowmen" max="RANGED"></MenAtArm>
-		<MenAtArm type="light_horsemen" key="mk_merc_ger_t2_cavalry" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_merc_eur_t2_knights" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mk_han_t2_hanse_lance" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_lor_t2_chevaliers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_pap_t2_merc_comp_inf" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="jomsviking_pirates" key="mk_nor_t2_atgeir_bondir" max="INFANTRY"></MenAtArm>
-		<MenAtArm type="handpicked_faithful" key="mk_merc_eur_t2_dismounted_MAA" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="handpicked_faithful" key="mk_lor_t2_dismounted_chevaliers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_merc_ara_t2_catalan_company" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_poachers" key="mk_merc_wel_t2_longbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="maa_marauders" key="mk_merc_ita_t2_berrovieri" max="CAVALRY"></MenAtArm>
@@ -604,7 +604,7 @@
 		<MenAtArm type="bowmen" key="mk_merc_wel_t2_longbowmen"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_fre_t2_arbaletriers"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_lor_t2_coutiliers"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_merc_eur_t2_knights"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_lor_t2_chevaliers"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_bur_t2_ducal_heavy_foot_guards"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted"></MenAtArm>
 		
@@ -613,7 +613,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="mk_fre_t2_cliens"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_bur_t2_pavise_spearmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_wel_t2_ysbeilwyr"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguards" key="mk_merc_eur_t2_dismounted_MAA"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguards" key="mk_wel_t2_dismounted_marchog"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowers" key="mk_merc_gen_t2_genoese_crossbowmen"></MenAtArm>
 	</Faction>
 
@@ -632,7 +632,7 @@
 		<MenAtArm type="bowmen" key="mk_wel_t2_saethwyr"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_fla_t2_crossbowmen"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_wel_t2_mounted_sergeants"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_merc_eur_t2_knights"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_wel_t2_marchog"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_wel_t2_dismounted_marchog"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted"></MenAtArm>
 
@@ -828,22 +828,23 @@
 		<General key="mk_tre_t2_oikeioi"></General>
 		<Knights key="mk_tre_t2_hippospatharioi_tou_vasileos"></Knights>
 		
-		<Levies porcentage="65" key="mk_nic_t2_vigla"></Levies>
-		<Levies porcentage="25" key="mk_tre_t2_spathatoi"></Levies>
+		<Levies porcentage="55" key="mk_nic_t2_vigla"></Levies>
+		<Levies porcentage="25" key="mk_nic_t2_megaloallagitai_swordsmen"></Levies>
 		<Levies porcentage="10" key="mk_nic_t2_toxotai"></Levies>
+		<Levies porcentage="10" key="mk_nic_t2_peltastai"></Levies>
 		
-		<MenAtArm type="light_footmen" key="mk_nic_t2_peltastai"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_nic_t2_megaloallagitai_swordsmen"></MenAtArm>
+		<MenAtArm type="light_footmen" key="mk_tre_t2_spathatoi"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_tre_t2_scoutatoi"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_nic_t2_menavlatoi"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_nic_t2_megalloallagitai_toxotes"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_nic_t2_tzangratoroi"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_nic_t2_megaloallagitai"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_tre_t2_stratiotes"></MenAtArm>
-		<MenAtArm type="house_guard" key="mk_tre_t2_spatharioi_tou_vasileos"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_nic_t2_paramonai"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi"></MenAtArm>
 		
 		<MenAtArm type="horse_archers" key="mk_nic_t2_hippotourkoupoloi"></MenAtArm>
-		<MenAtArm type="accolade_maa_horse_archers" key="mk_nic_t2_hippotoxotai"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="mk_nic_t3_massagetoi"></MenAtArm>
 
 		<MenAtArm type="handpicked_faithful" key="mk_georg_t2_aznauri_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_arm_t2_bardzraharker" max="INFANTRY"></MenAtArm>
@@ -853,9 +854,9 @@
 
 		<MenAtArm type="accolade_maa_archers" key="mk_nic_t2_mourtatoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_nic_t2_hippoparamonai"></MenAtArm>
-		<MenAtArm type="accolade_maa_outriders" key="mk_tre_t2_oiketai"></MenAtArm>
-		<MenAtArm type="accolade_maa_pikes" key="mk_nic_t2_menavlatoi"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="mk_nic_t2_tzakones"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_nic_t2_hippotoxotai"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_tre_t2_kontaratoi"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_ara_t2_almogavar"></MenAtArm>
 		<MenAtArm type="accolade_maa_vanguards" key="mk_nic_t2_englinovarangoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowers" key="mk_nic_t2_italikon"></MenAtArm>
 	</Faction>	
@@ -1316,7 +1317,7 @@
 		<MenAtArm type="bowmen" key="mk_merc_wel_t2_longbowmen"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_fla_t2_sergeant_crossbowmen"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_wel_t2_hobilar"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_merc_eur_t2_knights"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_wel_t2_marchog"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_wel_t2_dismounted_marchog"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted"></MenAtArm>
 
@@ -1345,7 +1346,7 @@
 		<MenAtArm type="bowmen" key="mk_wel_t1_saethwyr"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_fla_t2_crossbowmen"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_wel_t1_uchelwyr"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="mk_merc_eur_t2_knights"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_wel_t2_marchog"></MenAtArm>
 		<MenAtArm type="house_guard" key="mk_wel_t2_dismounted_marchog"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_spanish_order_knights_dismounted"></MenAtArm>
 
@@ -2028,7 +2029,7 @@
 		<Levies porcentage="15" key="mk_hun_t2_HA"></Levies>
 		
 		<MenAtArm type="light_footmen" key="mk_hun_t2_saxon_militia_halberdiers"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_merc_eur_t2_dismounted_MAA"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_croat_T2_communal_noble_infantry"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_hun_t2_pavise_spearmen"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_hun_t2_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_hun_t2_crossbowmen"></MenAtArm>
@@ -2088,7 +2089,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="mk_hun_t2_light_lancer"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_hun_t2_pavise_spearmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_vlach_t2_maciuca_macemen"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguards" key="mk_merc_eur_t2_dismounted_MAA"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguards" key="mk_croat_T2_communal_noble_infantry"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowers" key="mk_hun_t2_pavise_crossbowmen"></MenAtArm>
 	</Faction>	
 
@@ -2349,7 +2350,7 @@
 		<MenAtArm type="crossbowmen" key="mk_croat_T2_pavise_crossbowmen"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_croat_T2_cavalry"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_croat_T2_knight"></MenAtArm>
-		<MenAtArm type="house_guard" key="mk_merc_eur_t2_dismounted_MAA"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_croat_T2_communal_noble_infantry"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted"></MenAtArm>	
 	
 		<MenAtArm type="hussar" key="mk_mold_t2_viteji"></MenAtArm>
@@ -2365,7 +2366,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="mk_cuman_t2_light_lancers"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_hre_t2_fussknecht"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_serb_t2_krajisnici"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguards" key="mk_merc_eur_t2_dismounted_MAA"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguards" key="mk_croat_T2_communal_noble_infantry"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowers" key="mk_merc_gen_t2_genoese_crossbowmen"></MenAtArm>	
 	</Faction>
 
@@ -3567,13 +3568,14 @@
 		<General key="mk_tre_t2_oikeioi"></General>
 		<Knights key="mk_tre_t2_stratiotes"></Knights>
 		
-		<Levies porcentage="65" key="mk_tre_t2_vigla"></Levies>
-		<Levies porcentage="25" key="mk_tre_t2_spathatoi"></Levies>
+		<Levies porcentage="50" key="mk_tre_t2_vigla"></Levies>
+		<Levies porcentage="30" key="mk_tre_t2_kontaratoi"></Levies>
 		<Levies porcentage="10" key="mk_tre_t2_toxotes"></Levies>
+		<Levies porcentage="10" key="mk_tre_t2_peltastai"></Levies>
 		
-		<MenAtArm type="light_footmen" key="mk_tre_t2_peltastai"></MenAtArm>
-		<MenAtArm type="armored_footmen" key="mk_tre_t2_scoutatoi"></MenAtArm>
-		<MenAtArm type="pikemen_unit" key="mk_tre_t2_kontaratoi"></MenAtArm>
+		<MenAtArm type="light_footmen" key="mk_tre_t2_spathatoi"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_tre_t2_katapraktos_toxotes"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_tre_t2_menavlatoi"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_tre_t2_tourkoupoloi"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_tre_t2_italikon"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_tre_t2_koursores"></MenAtArm>
@@ -3581,19 +3583,20 @@
 		<MenAtArm type="house_guard" key="mk_tre_t2_spatharioi_tou_vasileos"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi"></MenAtArm>
 		
-		<MenAtArm type="horse_archers" key="mk_tre_t2_hippotoxotai"></MenAtArm>
-		<MenAtArm type="accolade_maa_horse_archers" key="mk_tre_t2_katapraktos_hippotoxotes"></MenAtArm>
-
+		<MenAtArm type="horse_archers" key="mk_tre_t2_hippotourkoupoloi"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="mk_tre_t2_massagetoi"></MenAtArm>
+		<MenAtArm type="skoutatoi" key="mk_tre_t2_scoutatoi"></MenAtArm>
+		
 		<MenAtArm type="handpicked_faithful" key="mk_georg_t2_aznauri_swordsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_arm_t2_bardzraharker" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_poachers" key="mk_georg_t2_svanian_hunters" max="RANGED"></MenAtArm>
 		<MenAtArm type="maa_marauders" key="mk_cuman_t2_light_HA" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="maa_thieves" key="mk_georg_t1_shubosani_molashqre" max="INFANTRY"></MenAtArm>	
 	
-		<MenAtArm type="accolade_maa_archers" key="mk_tre_t2_katapraktos_toxotes"></MenAtArm>
+		<MenAtArm type="accolade_maa_archers" key="mk_nic_t2_mourtatoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_tre_t2_hippospatharioi_tou_vasileos"></MenAtArm>
-		<MenAtArm type="accolade_maa_outriders" key="mk_tre_t2_massagetoi"></MenAtArm>
-		<MenAtArm type="accolade_maa_pikes" key="mk_tre_t2_menavlatoi"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_tre_t2_hippotoxotai"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_tre_t2_kontaratoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_tre_t2_spathatoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_vanguards" key="mk_tre_t2_varangoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowers" key="mk_merc_gen_t2_genoese_crossbowmen"></MenAtArm>
@@ -3743,5 +3746,43 @@
 		<MenAtArm type="accolade_maa_vanguards" key="mk_per_t2_dismounted_pushandar"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowers" key="mk_merc_gen_t2_genoese_crossbowmen"></MenAtArm>
 	</Faction>	
+
+	<Faction name="New English">
+		<General key="mk_eng_t2_edward_blackprince_bodyguard"></General>
+		<Knights key="mk_eng_t2_general_bodyguard"></Knights>
+		
+		<Levies porcentage="50" key="mk_cuman_t2_spearmen"></Levies>
+		<Levies porcentage="30" key="mk_eng_t2_serjeants"></Levies>
+		<Levies porcentage="10" key="mk_cuman_t2_light_archers"></Levies>
+		<Levies porcentage="10" key="mk_cuman_t2_tribal_HA"></Levies>
+		
+		<MenAtArm type="light_footmen" key="mk_eng_t2_levy_billmen"></MenAtArm>
+		<MenAtArm type="armored_footmen" key="mk_eng_t2_foot_knights"></MenAtArm>
+		<MenAtArm type="pikemen_unit" key="mk_eng_t2_spearmen"></MenAtArm>
+		<MenAtArm type="bowmen" key="mk_eng_t2_welsh_longbowmen"></MenAtArm>
+		<MenAtArm type="crossbowmen" key="mk_tri_t2_trier_crossbowmen"></MenAtArm>
+		<MenAtArm type="light_horsemen" key="mk_cuman_t2_light_lancers"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="mk_eng_t2_knights"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_eng_t2_foot_bodyguard"></MenAtArm>
+		<MenAtArm type="teutonic_knights" key="mk_mio_t2_templar_knights_dismounted"></MenAtArm>	
+
+		<MenAtArm type="Huscarls" key="mk_eng_t2_foot_bodyguard"></MenAtArm>
+		<MenAtArm type="horse_archers" key="mk_cuman_t2_light_HA"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="mk_cuman_t2_medium_HA"></MenAtArm>
+
+		<MenAtArm type="handpicked_faithful" key="mk_cuman_t2_axemen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="maa_bandits" key="mk_gold_t2_tserig_axemen" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="maa_poachers" key="mk_cuman_t2_light_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="maa_marauders" key="mk_cuman_t2_light_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="maa_thieves" key="mk_cuman_t2_spearmen" max="INFANTRY"></MenAtArm>	
+		
+		<MenAtArm type="accolade_maa_archers" key="earl_eng_t2_longbowmen_mounted"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_cuman_t2_nogers"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_cuman_t2_heavy_lancers"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_eng_t2_heavy_billmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_eng_t2_billmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguards" key="mk_cuman_t2_dismounted_nogers"></MenAtArm>
+		<MenAtArm type="accolade_maa_crossbowers" key="mk_merc_gen_t2_genoese_crossbowmen"></MenAtArm>	
+	</Faction>
 	
 </FactionsGroups>

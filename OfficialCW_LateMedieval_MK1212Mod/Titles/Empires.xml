@@ -10,25 +10,25 @@
 		<General key="mk_tre_t2_oikeioi"></General>
 		<Knights key="mk_tre_t2_hippospatharioi_tou_vasileos"></Knights>
 		
-		<MenAtArm type="light_footmen" key="mk_nic_t2_peltastai"></MenAtArm>
+		<MenAtArm type="light_footmen" key="mk_tre_t2_spathatoi"></MenAtArm>
 		<MenAtArm type="armored_footmen" key="mk_tre_t2_spatharioi_tou_vasileos"></MenAtArm>
 		<MenAtArm type="pikemen_unit" key="mk_tre_t2_menavlatoi"></MenAtArm>
 		<MenAtArm type="bowmen" key="mk_nic_t2_megalloallagitai_toxotes"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="mk_nic_t2_tzangratoroi"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_nic_t2_megaloallagitai"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_tre_t2_stratiotes"></MenAtArm>
-		<MenAtArm type="house_guard" key="mk_nic_t2_englinovarangoi"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_nic_t2_paramonai"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_tre_t2_varangoi"></MenAtArm>
 		
-		<MenAtArm type="horse_archers" key="mk_nic_t2_hippotourkoupoloi"></MenAtArm>
-		<MenAtArm type="accolade_maa_horse_archers" key="mk_nic_t2_hippotoxotai"></MenAtArm>
+		<MenAtArm type="horse_archers" key="mk_nic_t3_skythikoi"></MenAtArm>
+		<MenAtArm type="accolade_maa_horse_archers" key="mk_nic_t2_massagetoi"></MenAtArm>
 		<MenAtArm type="skoutatoi" key="mk_tre_t2_scoutatoi"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_nic_t2_mourtatoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_lancers" key="mk_nic_t2_hippoparamonai"></MenAtArm>
-		<MenAtArm type="accolade_maa_outriders" key="mk_tre_t2_oiketai"></MenAtArm>
-		<MenAtArm type="accolade_maa_pikes" key="mk_nic_t2_menavlatoi"></MenAtArm>
-		<MenAtArm type="accolade_maa_skirmishers" key="mk_nic_t2_tzakones"></MenAtArm>
+		<MenAtArm type="accolade_maa_outriders" key="mk_nic_t2_hippotoxotai"></MenAtArm>
+		<MenAtArm type="accolade_maa_pikes" key="mk_nic_t2_megaloallagitai_spearmen"></MenAtArm>
+		<MenAtArm type="accolade_maa_skirmishers" key="mk_merc_ara_t2_almogavar"></MenAtArm>
 		<MenAtArm type="accolade_maa_vanguard" key="mk_nic_t2_englinovarangoi"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowmen" key="mk_nic_t2_italikon"></MenAtArm>
 	</Faction>
