@@ -101,7 +101,7 @@
 		<MenAtArm type="genoese_crossbowmen" key="att_rom_elite_ballistarii" max="RANGED"></MenAtArm>
 		<MenAtArm type="milan_famiglia_ducale" key="cha_lom_gastald_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="lanze_spezzate" key="cha_lom_gastald_knights" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="sicilian_archers" key="mubs_arab_sicilian_archers" max="RANGED"></MenAtArm>
+		<MenAtArm type="sicilian_archers" key="cha_mus_armoured_archers" max="RANGED"></MenAtArm>
 		
 		<MenAtArm type="yeoman_archers" key="cha_cel_welsh_longbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="sherwood_archers" key="att_cel_highland_archers" max="RANGED"></MenAtArm>

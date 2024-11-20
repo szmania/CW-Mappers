@@ -1644,7 +1644,7 @@
 		<MenAtArm type="crossbowmen" key="mk_khw_t1_charkh_infantry"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="mk_khw_t1_savaran"></MenAtArm>
 		<MenAtArm type="armored_horsemen" key="mk_khw_t1_askari"></MenAtArm>
-		<MenAtArm type="house_guard" key="mk_khw_t1_foot_askari"></MenAtArm>
+		<MenAtArm type="house_guard" key="mk_ayy_t1_tabardariyya"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="mk_ayy_t1_tabardariyya"></MenAtArm>
 
 		<MenAtArm type="camel_rider" key="mk_khw_t1_camel_cavalry"></MenAtArm>
@@ -1664,7 +1664,7 @@
 		<MenAtArm type="accolade_maa_outriders" key="mk_khw_t1_muqti"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_sal_t1_persian_spearmen"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_aor_per_t1_daylami_skirmishers"></MenAtArm>
-		<MenAtArm type="accolade_maa_vanguardss" key="mk_khw_t1_foot_askari"></MenAtArm>
+		<MenAtArm type="accolade_maa_vanguardss" key="mk_ayy_t1_tabardariyya"></MenAtArm>
 		<MenAtArm type="accolade_maa_crossbowers" key="mk_khw_t1_charkh_infantry"></MenAtArm>
 	</Faction>	
 	
