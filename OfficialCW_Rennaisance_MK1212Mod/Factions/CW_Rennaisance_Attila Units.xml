@@ -81,7 +81,16 @@
 		<MenAtArm type="ballistrai" key="mk_byz_t1_ballista" max="RANGED"></MenAtArm>
 		<MenAtArm type="skoutatoi" key="mk_nic_t3_megaloallagitai_spearmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="varangian_guards" key="mk_nic_t3_englinovarangoi" max="INFANTRY"></MenAtArm>
-		
+		<MenAtArm type="nomadic_riders" key="mk_gold_t3_mongol_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="mk_mon_t1_qaraghul" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="mk_mon_t3_golden_keshiq" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="mk_gold_t3_mongol_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="mk_gold_t3_khorchi_khisigten" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="mk_gold_t3_nokor" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="mangudai" key="mk_gold_t3_khisigten" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="cataphract_archers" key="mk_rum_t3_kapikulu_ulufecis" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="maturkan_warriors" key="mk_volga_t3_tribal_noble_archers" max="CAVALRY"></MenAtArm>
+				
 		<MenAtArm type="accolade_maa_elephantiers" key="mk_ghu_t3_war_elephants" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_gold_t3_khorchi_khisigten" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_cameliers" key="mk_alm_t3_tuareg_camel_riders" max="CAVALRY"></MenAtArm>
@@ -2085,6 +2094,14 @@
 		<MenAtArm type="horse_archers" key="mk_vlach_t3_calarasi_horse_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_cuman_t3_heavy_HA"></MenAtArm>
 
+		<MenAtArm type="nomadic_riders" key="mk_hun_t3_szekely_lofo_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="mk_hun_t3_huszar" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="mk_cuman_t3_nogers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="mk_hun_t3_szekely_lofo" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="mk_cuman_t3_heavy_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="mk_cuman_t3_heavy_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="mk_cuman_t3_nogers" max="CAVALRY"></MenAtArm>
+
 		<MenAtArm type="handpicked_faithful" key="mk_vlach_t3_guard" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_vlach_t3_maciuca_macemen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_poachers" key="mk_vlach_t3_curteni_foot_archers" max="RANGED"></MenAtArm>
@@ -2441,6 +2458,14 @@
 		<MenAtArm type="horse_archers" key="mk_cuman_t3_medium_HA"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_cuman_t3_heavy_HA"></MenAtArm>
 
+		<MenAtArm type="nomadic_riders" key="mk_cuman_t2_light_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="mk_cuman_t3_tribal_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="mk_cuman_t3_nogers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="mk_cuman_t3_light_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="mk_cuman_t3_heavy_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="mk_cuman_t3_heavy_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="mk_cuman_t3_nogers" max="CAVALRY"></MenAtArm>
+
 		<MenAtArm type="handpicked_faithful" key="mk_cuman_t3_dismounted_nogers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_cuman_t3_axe_militia" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_poachers" key="mk_cuman_t3_light_archers" max="RANGED"></MenAtArm>
@@ -2476,6 +2501,14 @@
 
 		<MenAtArm type="horse_archers" key="mk_mold_t3_viteji"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_cuman_t3_heavy_HA"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="mk_cuman_t2_light_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="mk_cuman_t3_tribal_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="mk_cuman_t3_nogers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="mk_cuman_t3_light_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="mk_cuman_t3_heavy_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="mk_cuman_t3_heavy_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="mk_cuman_t3_nogers" max="CAVALRY"></MenAtArm>
 
 		<MenAtArm type="handpicked_faithful" key="mk_cuman_t3_dismounted_nogers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_cuman_t3_axe_militia" max="INFANTRY"></MenAtArm>
@@ -2514,6 +2547,14 @@
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_cuman_t3_heavy_HA"></MenAtArm>
 		<MenAtArm type="cataphract" key="mk_rum_t3_kapikulu_sipahis"></MenAtArm>
 
+		<MenAtArm type="nomadic_riders" key="mk_volga_t3_light_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="mk_volga_t2_skirmisher_cavalry" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="mk_mon_t3_ilkhan_keshiq" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="mk_volga_t3_chirmesh_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="mk_cuman_t3_heavy_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="mk_volga_t3_knights" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="mk_volga_t3_elite_cav" max="CAVALRY"></MenAtArm>
+
 		<MenAtArm type="handpicked_faithful" key="mk_cuman_t3_dismounted_nogers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_cuman_t3_axe_militia" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_poachers" key="mk_cuman_t3_light_archers" max="RANGED"></MenAtArm>
@@ -2521,7 +2562,7 @@
 		<MenAtArm type="maa_thieves" key="mk_cuman_t3_pikemen" max="INFANTRY"></MenAtArm>	
 		
 		<MenAtArm type="accolade_maa_archers" key="mk_volga_t3_tribal_noble_archers"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="mk_rum_t3_kapikulu_sipahis"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="mk_mon_t3_ilkhan_keshiq_lancers"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="mk_rum_t3_cebeli"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="mk_volga_t3_archer_halberdier"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="mk_volga_t3_gunners"></MenAtArm>
@@ -2552,6 +2593,14 @@
 		<MenAtArm type="horse_archers" key="mk_ilkhan_t3_tirkash_band"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_ilkhan_t3_khorchi_khisigten"></MenAtArm>
 		<MenAtArm type="cataphract" key="mk_mon_t3_ilkhan_keshiq_lancers"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="mk_ilkhan_t3_mongol_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="mk_khw_t3_qizilbash_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="mk_mon_t3_ilkhan_keshiq" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="mk_ilkhan_t3_mongol_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="mk_ilkhan_t3_khorchi_khisigten" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="mk_ilkhan_t3_nokor" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="mk_ilkhan_t3_baatar_khisigten" max="CAVALRY"></MenAtArm>
 
 		<MenAtArm type="handpicked_faithful" key="mk_per_t3_dismounted_pushandar" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_rum_t3_haramis" max="INFANTRY"></MenAtArm>
@@ -2592,6 +2641,14 @@
 		<MenAtArm type="horse_archers" key="mk_rum_t3_anatolian_timarli_sipahi"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_rum_t3_kapikulu_ulufecis"></MenAtArm>
 		<MenAtArm type="cataphract" key="mk_rum_t3_kapikulu_sipahis"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="mk_ilkhan_t3_mongol_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="mk_rum_t3_deli_cavalry" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="mk_mon_t3_ilkhan_keshiq" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="mk_ilkhan_t3_mongol_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="mk_rum_t3_kapikulu_ulufecis" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="mk_ilkhan_t3_nokor" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="mk_ilkhan_t3_baatar_khisigten" max="CAVALRY"></MenAtArm>
 
 		<MenAtArm type="handpicked_faithful" key="mk_per_t3_dismounted_pushandar" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_rum_t3_haramis" max="INFANTRY"></MenAtArm>
@@ -3800,6 +3857,14 @@
 		<MenAtArm type="Huscarls" key="mk_eng_t3_henry_bodyguard"></MenAtArm>
 		<MenAtArm type="horse_archers" key="mk_cuman_t3_light_HA"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="mk_cuman_t3_medium_HA"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="mk_cuman_t2_light_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="mk_cuman_t3_tribal_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="mk_cuman_t3_nogers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="mk_cuman_t3_light_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="mk_cuman_t3_heavy_HA" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="mk_cuman_t3_heavy_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="mk_cuman_t3_nogers" max="CAVALRY"></MenAtArm>
 
 		<MenAtArm type="handpicked_faithful" key="mk_cuman_t3_dismounted_nogers" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="mk_cuman_t3_axe_militia" max="INFANTRY"></MenAtArm>

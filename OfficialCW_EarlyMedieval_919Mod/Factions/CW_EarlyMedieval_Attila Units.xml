@@ -20,7 +20,7 @@
 		<MenAtArm type="bowmen" key="cha_gen_archers" max="RANGED"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="cha_cel_pictish_crossbowmen" max="RANGED"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="cha_fra_horsemen" max="CAVALRY"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="cha_spa_royal_cav" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="cha_gen_noble_cav" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="house_guard" key="cha_spa_royal_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="jomsviking_pirates" key="cha_vik_big_axes" max="INFANTRY"></MenAtArm>
@@ -81,12 +81,21 @@
 		<MenAtArm type="ballistrai" key="att_rom_cheiroballistra" max="RANGED"></MenAtArm>
 		<MenAtArm type="skoutatoi" key="bel_rom_skutatoi_spears_1" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="varangian_guards" key="cha_eng_huscarlas" max="INFANTRY"></MenAtArm>
+		<MenAtArm type="nomadic_riders" key="att_nom_hunnic_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="HEP_kushan_cataphracts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="att_nom_first_wave_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="att_nom_hunnic_devil_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="att_nom_steppe_cataphracts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="mangudai" key="att_nom_steppe_mounted_tribespeople" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="cataphract_archers" key="kok_oq_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="maturkan_warriors" key="att_nom_uar_archers" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_elephantiers" key="att_est_indian_elephants" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="cha_avar_noble_archers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_cameliers" key="att_des_camel_lancers" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_archers" key="cha_gen_archers" max="RANGED"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="cha_spa_royal_cav" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="cha_gen_knights" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="cha_fra_horsemen" max="CAVALRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_gen_armoured_spear" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="cha_gen_skirm" max="INFANTRY"></MenAtArm>
@@ -1295,12 +1304,12 @@
 		<MenAtArm type="bowmen" key="att_ger_elite_germanic_archers"></MenAtArm>
 		<MenAtArm type="crossbowmen" key="DEFAULT"></MenAtArm>
 		<MenAtArm type="light_horsemen" key="cha_spa_raider_cav"></MenAtArm>
-		<MenAtArm type="armored_horsemen" key="cha_spa_royal_knights"></MenAtArm>
+		<MenAtArm type="armored_horsemen" key="cha_gen_noble_cav"></MenAtArm>
 		<MenAtArm type="house_guard" key="cha_spa_royal_guardsmen"></MenAtArm>
 		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen"></MenAtArm>
 		
 		<MenAtArm type="accolade_maa_archers" key="cha_mus_armoured_archers"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="cha_spa_royal_knights"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="cha_gen_knights"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="cha_spa_jinetes"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_gen_armoured_spear"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="cha_spa_noble_skirm"></MenAtArm>
@@ -1490,6 +1499,14 @@
 		<MenAtArm type="horse_archers" key="kok_khazars"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="kok_oq_horse_archers"></MenAtArm>
 		<MenAtArm type="cataphract" key="att_nom_noble_steppe_cataphracts"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="KOK_cha_gen_skirm_cav" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="KOK_cha_bre_armorican_knights" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="att_nom_steppe_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="att_nom_hunnic_devil_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="KOK_cha_bre_armorican_cav" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="KOK_cha_bre_armorican_knights" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="handpicked_faithful" key="att_wh_khingilas_khandas" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="HEP_steppe_tribesmen" max="INFANTRY"></MenAtArm>
@@ -1529,6 +1546,14 @@
 		<MenAtArm type="horse_archers" key="att_wh_spet_xyon_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="HEP_spet_xyon_noble_horse_archers"></MenAtArm>
 		<MenAtArm type="cataphract" key="att_nom_noble_steppe_cataphracts"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="att_nom_hunnic_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="HEP_kushan_cataphracts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="att_nom_first_wave_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="HEP_spet_xyon_noble_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="att_wh_hephthalite_chargers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="handpicked_faithful" key="att_wh_khingilas_khandas" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="HEP_steppe_tribesmen" max="INFANTRY"></MenAtArm>
@@ -1566,6 +1591,14 @@
 		<MenAtArm type="horse_archers" key="NOM_T2_horse_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_nom_hunnic_devil_archers"></MenAtArm>
 		<MenAtArm type="cataphract" key="att_nom_noble_steppe_cataphracts"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="att_nom_noble_horse_archers_hun" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="att_nom_noble_steppe_cataphracts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="att_nom_steppe_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="att_nom_noble_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="att_nom_elite_hunnic_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="handpicked_faithful" key="att_wh_khingilas_khandas" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="HEP_steppe_tribesmen" max="INFANTRY"></MenAtArm>
@@ -1603,6 +1636,14 @@
 		<MenAtArm type="horse_archers" key="cha_avar_noble_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="cha_avar_horse_masters"></MenAtArm>
 		<MenAtArm type="cataphract" key="att_nom_noble_steppe_cataphracts"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="cha_avar_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="att_nom_noble_steppe_cataphracts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="cha_avar_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="cha_avar_horse_masters" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="cha_avar_noble_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="handpicked_faithful" key="ERE_gepids" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="att_alan_sarmatian_band" max="INFANTRY"></MenAtArm>
@@ -1640,6 +1681,14 @@
 		<MenAtArm type="horse_archers" key="att_nom_hunnic_mounted_bows"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_nom_hunnic_devil_archers"></MenAtArm>
 		<MenAtArm type="cataphract" key="att_nom_noble_steppe_cataphracts"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="att_nom_steppe_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="att_nom_steppe_mounted_brigands" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="att_nom_noble_steppe_cataphracts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="att_nom_hunnic_horsemen" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="att_nom_hunnic_devil_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="att_nom_elite_hunnic_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
 		
 		<MenAtArm type="handpicked_faithful" key="ERE_gepids" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="att_alan_sarmatian_band" max="INFANTRY"></MenAtArm>
@@ -1752,7 +1801,15 @@
 		<MenAtArm type="horse_archers" key="HEP_spet_xyon_noble_horse_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="att_nom_hunnic_devil_archers"></MenAtArm>
 		<MenAtArm type="cataphract" key="att_nom_noble_steppe_cataphracts"></MenAtArm>
-		
+
+		<MenAtArm type="nomadic_riders" key="KOK_cha_gen_skirm_cav" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="HEP_kushan_cataphracts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="att_nom_steppe_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="att_nom_hunnic_devil_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="KOK_cha_bre_armorican_cav" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
+				
 		<MenAtArm type="handpicked_faithful" key="att_wh_khingilas_khandas" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="HEP_steppe_tribesmen" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_poachers" key="att_nom_steppe_bows" max="RANGED"></MenAtArm>
@@ -2288,7 +2345,7 @@
 	
 	<Faction name="Sardinian">
 		<General key="cha_byz_duxs_guard"></General>
-		<Knights key="cha_spa_royal_cav"></Knights>
+		<Knights key="cha_eng_royal_horsemen"></Knights>
 		
 		<Levies porcentage="65" key="cha_spa_tribesmen"></Levies>
 		<Levies porcentage="25" key="cha_spa_noble_skirm"></Levies>
@@ -2305,7 +2362,7 @@
 		<MenAtArm type="teutonic_knights" key="cha_pap_guardsmen"></MenAtArm>
 
 		<MenAtArm type="accolade_maa_archers" key="cha_byz_armoured_archers"></MenAtArm>
-		<MenAtArm type="accolade_maa_lancers" key="cha_spa_royal_knights"></MenAtArm>
+		<MenAtArm type="accolade_maa_lancers" key="cha_eng_royal_horsemen"></MenAtArm>
 		<MenAtArm type="accolade_maa_outriders" key="cha_byz_light_cav"></MenAtArm>
 		<MenAtArm type="accolade_maa_pikes" key="cha_byz_skutatoi_spear"></MenAtArm>
 		<MenAtArm type="accolade_maa_skirmishers" key="cha_spa_noble_skirm"></MenAtArm>
@@ -2431,6 +2488,14 @@
 		<MenAtArm type="horse_archers" key="cha_avar_noble_archers"></MenAtArm>
 		<MenAtArm type="accolade_maa_horse_archers" key="cha_avar_horse_masters"></MenAtArm>
 		<MenAtArm type="cataphract" key="att_alan_sarmatian_cataphracts_infantry_destroyer_tier_5"></MenAtArm>
+
+		<MenAtArm type="nomadic_riders" key="cha_avar_horse_archers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="torch_bearers" key="att_nom_hunnic_mounted_warband" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="kheshig" key="att_nom_noble_steppe_cataphracts" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="steppe_raiders" key="cha_avar_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="heavy_horse_archers" key="cha_avar_horse_masters" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="nomad_lancers" key="cha_avar_noble_lancers" max="CAVALRY"></MenAtArm>
+		<MenAtArm type="tarkhan" key="att_nom_nokkors" max="CAVALRY"></MenAtArm>
 
 		<MenAtArm type="handpicked_faithful" key="ERE_gepids" max="INFANTRY"></MenAtArm>
 		<MenAtArm type="maa_bandits" key="att_alan_sarmatian_band" max="INFANTRY"></MenAtArm>

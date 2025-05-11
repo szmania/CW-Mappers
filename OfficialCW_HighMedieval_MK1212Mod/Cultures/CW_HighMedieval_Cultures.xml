@@ -628,8 +628,8 @@
 	
 	<Heritage name="heritage_mongolic" faction="Mongol">
 		<Culture name="evenk" faction="Siberian"></Culture>	
-		<Culture name="kazakh" faction="Mongol"></Culture>	
-		<Culture name="Kazakh" faction="Mongol"></Culture>	
+		<Culture name="kazakh" faction="Turko Persian"></Culture>	
+		<Culture name="Kazakh" faction="Turko Persian"></Culture>	
 		<Culture name="new_english_hybrid" faction="New English"></Culture>
 		<Culture name="New English" faction="New English"></Culture>
 	</Heritage>
@@ -760,8 +760,8 @@
 		<Culture name="turkmen" faction="Ottoman"></Culture>
 		<Culture name="hindustani_proper" faction="Afghan"></Culture>	
 		<Culture name="Hindustani" faction="Afghan"></Culture>	
-		<Culture name="kazakh" faction="Mongol"></Culture>	
-		<Culture name="Kazakh" faction="Mongol"></Culture>	
+		<Culture name="kazakh" faction="Turko Persian"></Culture>	
+		<Culture name="Kazakh" faction="Turko Persian"></Culture>	
 		<Culture name="kuzarim" faction="Cuman"></Culture>
 		<Culture name="Kuzarim" faction="Cuman"></Culture>
 		<Culture name="new_english_hybrid" faction="New English"></Culture>
