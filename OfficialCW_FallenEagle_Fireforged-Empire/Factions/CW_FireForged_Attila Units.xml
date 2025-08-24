@@ -109,7 +109,7 @@
         <MenAtArm type="comitatenses" key="rex_rom_legionis_italica"></MenAtArm>
 		<MenAtArm type="palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
         <MenAtArm type="legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
-		<MenAtArm type="clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="clibanarii" key="att_rom_clibanarii"></MenAtArm>
 		<MenAtArm type="war_dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
         <MenAtArm type="house_guard" key="att_rom_magister_militum"></MenAtArm>
 		
@@ -142,7 +142,7 @@
         <MenAtArm type="comitatenses" key="rex_rom_auxiliarii_raetobarii"></MenAtArm>
 		<MenAtArm type="palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
         <MenAtArm type="legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
-		<MenAtArm type="clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="clibanarii" key="att_rom_clibanarii"></MenAtArm>
 		<MenAtArm type="war_dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
         <MenAtArm type="house_guard" key="att_rom_magister_militum"></MenAtArm>
 				
@@ -208,7 +208,7 @@
         <MenAtArm type="comitatenses" key="rex_rom_legionis_germaniciani_seniores"></MenAtArm>
 		<MenAtArm type="palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
         <MenAtArm type="legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
-		<MenAtArm type="clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="clibanarii" key="att_rom_clibanarii"></MenAtArm>
 		<MenAtArm type="war_dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
                 
         <MenAtArm type="cataphract" key="rex_rom_comites_catafractarii_bucellarii_seniores"></MenAtArm>
@@ -241,7 +241,7 @@
         <MenAtArm type="comitatenses" key="rex_rom_auxiliarii_marcomanni_seniores"></MenAtArm>
 		<MenAtArm type="palatinae" key="rex_rom_legionis_ioviani_seniores"></MenAtArm>
         <MenAtArm type="legionaries" key="rex_rom_legionis_ioviani_iuniores"></MenAtArm>
-		<MenAtArm type="clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="clibanarii" key="att_rom_clibanarii"></MenAtArm>
 		<MenAtArm type="war_dogs" key="rex_germ_band_hunting_dogs"></MenAtArm>
         <MenAtArm type="house_guard" key="att_rom_magister_militum"></MenAtArm>
 		
@@ -274,7 +274,7 @@
         <MenAtArm type="comitatenses" key="rex_rom_legionis_diocletiana"></MenAtArm>
 		<MenAtArm type="palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
         <MenAtArm type="legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
-		<MenAtArm type="clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="clibanarii" key="att_rom_clibanarii"></MenAtArm>
 		<MenAtArm type="war_dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
         <MenAtArm type="house_guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
 		
@@ -406,7 +406,7 @@
         <MenAtArm type="comitatenses" key="rex_rom_legionis_macedonica"></MenAtArm>
 		<MenAtArm type="palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
         <MenAtArm type="legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
-		<MenAtArm type="clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="clibanarii" key="att_rom_clibanarii"></MenAtArm>
 		<MenAtArm type="war_dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
         <MenAtArm type="house_guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
 		
@@ -439,7 +439,7 @@
         <MenAtArm type="comitatenses" key="rex_rom_legionis_macedonica"></MenAtArm>
 		<MenAtArm type="palatinae" key="rex_rom_legionis_herculiani_seniores"></MenAtArm>
         <MenAtArm type="legionaries" key="rex_rom_legionis_herculiani_iuniores"></MenAtArm>
-		<MenAtArm type="clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="clibanarii" key="att_rom_clibanarii"></MenAtArm>
 		<MenAtArm type="war_dogs" key="rex_sarm_hunting_dogs"></MenAtArm>
         <MenAtArm type="house_guard" key="rex_rom_legionis_lanciarii_honoriani_gallicani"></MenAtArm>
 		
@@ -538,7 +538,7 @@
         <MenAtArm type="comitatenses" key="rex_rom_auxiliarii_celtae_seniores"></MenAtArm>
 		<MenAtArm type="palatinae" key="rex_rom_auxiliarii_victores_seniores"></MenAtArm>
         <MenAtArm type="legionaries" key="rex_rom_auxiliarii_victores_seniores"></MenAtArm>
-		<MenAtArm type="clibanarii" key="rex_rom_equites_sagittarii_com"></MenAtArm>
+		<MenAtArm type="clibanarii" key="att_rom_clibanarii"></MenAtArm>
 		<MenAtArm type="war_dogs" key="rex_celt_pict_hunting_dogs"></MenAtArm>
         <MenAtArm type="house_guard" key="rex_rom_legionis_lanciarii_seniores"></MenAtArm>    
 		
