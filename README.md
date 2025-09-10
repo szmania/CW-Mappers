@@ -1,5 +1,3 @@
-![MAIN BANNER](https://i.imgur.com/6Z9IfPm.png)
-# What is this?
-This is the official repository for Crusader Wars mod Unit Mappers, working as an updater, nothing more.
-# What are Unit Mappers?
-A Unit Mapper is how the mod assigns TW: Attila units to CK3 Men-At-Arms & Levies of each Culture/Heritage.
+# Complete Overhaul of Crusader Conflicts Unit Mappers
+
+This fork was completely overhauled (and is now based off of CW-Mappers v1.2.2) and can now be found here: https://github.com/szmania/CC-Mappers
